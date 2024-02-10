@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-The GoPlus Token Scanner is an advanced analytical tool designed to provide an in-depth examination of tokens on various blockchain networks including Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). It is aimed at investors, developers, and analysts who need to assess the security, legitimacy, and potential risks associated with a token. By entering a verified contract address, users can receive a comprehensive breakdown of the token's characteristics and risk factors.
+The Token Scanner is an advanced analytical tool designed to provide an in-depth examination of tokens on various blockchain networks including Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). It is aimed at investors, developers, and analysts who need to assess the security, legitimacy, and potential risks associated with a token. By entering a verified contract address, users can receive a comprehensive breakdown of the token's characteristics and risk factors.
 
 ***
 
