@@ -6,6 +6,8 @@
 * [Getting Started](onchain-dex-terminal/getting-started.md)
 * [Usage Guide](onchain-dex-terminal/usage-guide.md)
 * [Key Features](onchain-dex-terminal/key-features.md)
+* [Tokenomics](onchain-dex-terminal/tokenomics.md)
+* [Project Roadmap](onchain-dex-terminal/project-roadmap.md)
 
 ## Scanners
 

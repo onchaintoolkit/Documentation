@@ -8,7 +8,7 @@ The DEX Terminal is an innovative platform that serves as a vital resource for a
 
 ### **Real-Time Data Analytics:**
 
-* **Market Trends:** Access up-to-the-minute data on market movements, price changes, and trading volumes.
+* **Market Trends:** Access up-to-the-minute data on market movements, price changes, and trading volumes utilizing state of the art Trading View charting system.
 * **Custom Alerts:** Set up personalized notifications for specific tokens or pools to stay informed of significant events or price thresholds.
 
 ### **Comprehensive Liquidity Pool Analysis:**

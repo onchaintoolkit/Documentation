@@ -27,3 +27,19 @@
 ### 5. Onramper Solution
 
 * **Fiat Gateway:** Purchase cryptocurrencies directly with fiat via a secure, integrated gateway. This feature supports various payment methods, including credit cards, bank transfers, and more.
+
+### 6. CrossChain Swaps
+
+* **Multi-Network:** Crosschain swaps among other cryptocurrencies directly with via a secure, integrated crosschain aggregator.&#x20;
+
+### 7. Limit Orders
+
+* **Limit Orders:** Unlike market orders, where trades are executed immediately at the current market price, limit orders are set to execute only at the price you specify or a more favorable one.
+
+### 8. Bubble Maps Integration
+
+* **Bubble Maps:** Bubble Maps are a graphical tool used to visualize and compare relative sizes, values, or categories across different geographic regions. They overlay bubble-like markers, varying in size, over specific locations on a map to represent data points.
+
+### 9. Twitter / X Search
+
+* **Search Instantly:** Users can instantly search token symbols on Twitter (X) via a click of a button on any pair page. The system will automatically execute a search based on the token symbol of the pair page itself.
