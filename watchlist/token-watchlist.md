@@ -6,7 +6,7 @@ Welcome to the OnChain Dex Terminal Watchlist User Guide. This guide will assist
 
 ### <mark style="color:purple;">1. Getting Started</mark>
 
-Before accessing the Watchlist feature, ensure that you have successfully logged into your OnChain Dex Terminal account.
+This guide will help you add tokens to your watchlist page.
 
 ### <mark style="color:purple;">2. Adding Tokens to Your Watchlist</mark>
 

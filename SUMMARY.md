@@ -28,3 +28,7 @@
 ## Notification
 
 * [OnChain Price Notification](notification/onchain-price-notification.md)
+
+***
+
+* [Strategic Partners](strategic-partners.md)
