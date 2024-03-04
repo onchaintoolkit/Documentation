@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-Welcome to the OnChain Dex Terminal Watchlist User Guide. This guide will assist you in leveraging the Watchlist feature effectively, enabling you to curate a personalized watchlist of tokens. With this feature, users can efficiently monitor tokens of interest, access essential data such as token prices, trading volume, market capitalization, and price fluctuations, while also having the capability to manage their watchlist by adding or removing tokens.
+Welcome to the OnChain Toolkit Watchlist User Guide. This guide will assist you in leveraging the Watchlist feature effectively, enabling you to curate a personalized watchlist of tokens. With this feature, users can efficiently monitor tokens of interest, access essential data such as token prices, trading volume, market capitalization, and price fluctuations, while also having the capability to manage their watchlist by adding or removing tokens.
 
 ### <mark style="color:purple;">1. Getting Started</mark>
 
@@ -49,4 +49,4 @@ Should you wish to discontinue tracking a particular token within your watchlist
 
 The token will no longer be visible in your watchlist in the same browser you utilize, clearing the browser cache/data will remove all the watchlist.
 
-Congratulations! You are now well-versed in utilizing the OnChain Dex Terminal Watchlist feature to establish, view, and manage your customized token watchlist. Happy monitoring!
+Congratulations! You are now well-versed in utilizing the OnChain Toolkit Watchlist feature to establish, view, and manage your customized token watchlist. Happy monitoring!
