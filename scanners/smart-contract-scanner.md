@@ -8,13 +8,13 @@ description: >-
 
 ## <mark style="color:purple;">Introduction</mark>
 
-Smart Contract Scanner is a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code.
+The Onchain Toolkit Smart Contract Scanner is powered by Revoluzion, a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code.
 
 ***
 
 ## <mark style="color:purple;">System Overview</mark>
 
-The Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
+The Onchain Toolkit Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
 
 ***
 
@@ -35,11 +35,11 @@ The Scanner operates by accepting a smart contract address input from the user a
 
 ## <mark style="color:purple;">Heroku Server Usage</mark>
 
-The Scanner's back-end services are deployed on Heroku, a cloud platform as a service (PaaS) that enables seamless interaction with the Slither framework. Heroku's dynamic server allocation allows for the scalable execution of the Python script necessary for smart contract analysis.
+The Onchain Toolkit Scanner's back-end services are deployed on Heroku, a cloud platform as a service (PaaS) that enables seamless interaction with the Slither framework. Heroku's dynamic server allocation allows for the scalable execution of the Python script necessary for smart contract analysis.
 
 ### Rate Limits and Operational Guidance
 
-Due to Heroku server's rate limits and traffic management protocols, there are occasions when the Revoluzion Scanner may fail to fetch data on the first attempt. In such cases, users are advised to:
+Due to Heroku server's rate limits and traffic management protocols, there are occasions when the Onchain Toolkit Scanner may fail to fetch data on the first attempt. In such cases, users are advised to:
 
 * **Refresh the Page**: A simple page refresh can reinitiate the scanning process.
 * **Retry the Scan**: If the initial attempt is unsuccessful, users should wait momentarily before retrying.
@@ -55,10 +55,11 @@ Upon completion of the scan, the Revoluzion Smart Contract Scanner provides:
 
 ## <mark style="color:purple;">Disclaimer and Best Practices</mark>
 
-While Revoluzion Smart Contract scanner delivers valuable insights, the automated analysis should not be deemed infallible. Users are strongly recommended to:
+While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the automated analysis should not be deemed infallible. Users are strongly recommended to:
 
 * **Professional Manual Audit**: Engage with professional auditors to conduct a thorough manual review of the contract.
-* **Revoluzion Ecosystem Audit**: For the highest degree of accuracy, consider commissioning a comprehensive audit by the Revoluzion Ecosystem's team of experts by contacting them [here](https://t.me/RevoluzionEcosystem).
+
+
 
 ***
 
@@ -78,7 +79,7 @@ While Revoluzion Smart Contract scanner delivers valuable insights, the automate
 
 ### Can it scan contracts that are not verified?
 
-**No:** The Revoluzion Scanner needs the contract's source code for a comprehensive analysis. Contracts that are not verified only provide bytecode, which isn't sufficient for a detailed scan.
+**No:** The Onchain Toolkit Scanner needs the contract's source code for a comprehensive analysis. Contracts that are not verified only provide bytecode, which isn't sufficient for a detailed scan.
 
 ### It says "error file missing."
 
@@ -110,6 +111,4 @@ For further inquiries or specific issues not addressed in this FAQ, please conta
 
 ***
 
-## <mark style="color:purple;">Conclusion</mark>
-
-Revoluzion Smart Contract Scanner offers an essential layer of scrutiny, yielding critical insights that can safeguard and refine smart contract deployments. With its technical prowess and ease of use, Revoluzion Ecosystem stands as a vigilant sentinel in the pursuit of blockchain security and excellence.
+##
