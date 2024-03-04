@@ -17,7 +17,7 @@
 ### 3. Allowance and Address Scanners
 
 * **Allowance Scanner with Revoke Function:** Review and manage the allowances that you have granted to various contracts, with an easy-to-use function to revoke them as needed.
-* **Address Scanner:** Investigate Ethereum addresses, viewing associated balances, transaction history, and related contracts.
+* **Address Scanner:** Investigate addresses, viewing associated balances, transaction history, and related contracts.
 
 ### 4. DEX Swap Aggregator
 
