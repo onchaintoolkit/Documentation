@@ -48,6 +48,3 @@ The Onchain Toolkit Address Scanner operates via an API endpoint that accepts a 
 * **Expert Consultation**: If you're unsure about the results or need further analysis, consult with a security expert or legal advisor.
 * **Privacy and Ethics**: Respect privacy and ethical considerations when analyzing addresses and sharing results.
 
-## <mark style="color:purple;">Conclusion</mark>
-
-The Onchain Toolkit Address Scanner is an essential tool for anyone involved in the blockchain ecosystem seeking to understand and mitigate potential risks. It provides a detailed and multifaceted view of an address's associations with various types of activities, helping users make more informed decisions and maintain the integrity of their operations and assets. Regular use of this scanner, combined with other security practices, is recommended for maintaining a high standard of due diligence and risk management.

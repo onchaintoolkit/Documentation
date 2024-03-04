@@ -41,6 +41,3 @@ The Onchain Toolkit Allowance Approval Scanner operates through an API endpoint 
 * **Consult Experts**: If you're unsure about an approval or contract, consult with a security expert or conduct further research.
 * **Continual Monitoring**: Allowances can be set or changed at any time. Regularly re-scan addresses and stay updated on interactions with your tokens.
 
-## <mark style="color:purple;">Conclusion</mark>
-
-The Onchain Toolkit Allowance Approval Scanner is a powerful tool for managing and monitoring token allowances. By providing detailed insights into the approvals associated with a token or wallet, it helps users maintain control over their digital assets and protect themselves from potential risks. Regular use of this scanner is a best practice for anyone actively managing or holding tokens on the supported blockchain networks.

@@ -48,6 +48,3 @@ The Onchain Toolkit Token Scanner operates through an API endpoint that accepts 
 
 ***
 
-## <mark style="color:purple;">Conclusion</mark>
-
-The Onchain Toolkit Token Scanner is a potent tool for anyone looking to navigate the complex world of cryptocurrencies with an informed perspective. It provides a detailed analysis that helps in identifying potential red flags and understanding the broader context of a token's operation and risk profile. By using this tool, stakeholders in the crypto space can make more educated decisions and better protect their investments and projects.
