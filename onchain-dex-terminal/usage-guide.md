@@ -6,11 +6,10 @@
 
 * Use the dashboard to view real-time data on pools and tokens.
 
+**Conducting Security Scans**
 
+Enter the contract address you wish to scan in the Contract scanner tool.
 
-### Conducting Security Scans
-
-* Enter the contract address you wish to scan in the Contract scanner tool.
 * Review the detailed report, noting any potential issues or optimizations.
 * Use scanners to assess tokens and addresses, ensuring safety and transparency.
 
