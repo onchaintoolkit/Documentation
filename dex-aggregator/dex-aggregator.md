@@ -10,11 +10,6 @@ The Onchain Toolkit DEX Aggregator is powered by Rubic, a sophisticated platform
 2. **Aggregation Mechanism**: Onchain Toolkit aggregates liquidity from multiple DEXes on each chain. When a user initiates a swap, Rubic scans its network of DEXes to find the most favorable exchange rate.
 3. **Automated Swap Process**: Users simply choose the tokens they want to swap and the quantity. The aggregator handles the rest, including selecting the best trade route.
 
-**Price Impact and Calculation**
-
-* **Price Impact**: This refers to the difference between the market price and the price you receive due to the size of your trade. Large orders can significantly impact the price.
-* **Calculation Method**: Rubic calculates token prices by considering the available liquidity and current demand on each DEX within its network. The aggregator uses this data to find the most efficient swap route, minimizing the price impact.
-
 **Automated Slippage**
 
 * **Automated Adjustment**: Rubic automatically sets slippage tolerance, typically up to 49%, to ensure the trade goes through even with minor price movements.
