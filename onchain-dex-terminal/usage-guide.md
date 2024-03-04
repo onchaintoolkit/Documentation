@@ -11,7 +11,7 @@
 
 * Enter the contract address you wish to scan in the Contract scanner tool.
 * Review the detailed report, noting any potential issues or optimizations.
-* Use GoPlus scanners to assess tokens and addresses, ensuring safety and transparency.
+* Use scanners to assess tokens and addresses, ensuring safety and transparency.
 
 ### Managing Allowances
 
