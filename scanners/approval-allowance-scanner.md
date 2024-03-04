@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-The Onchain Toolkit Allowance Approval Scanner is a comprehensive tool designed to analyze and monitor the approvals granted to various contracts for spending tokens on behalf of users. The Onchain Toolkit Allowance Scanner is powered by Goplus. This scanner is an essential part of risk management and security for token holders on blockchain networks like Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). By entering a verified contract address, users can access detailed information about the allowances set for that token, identifying potential risks and ensuring better control over their digital assets.
+The Onchain Toolkit Allowance Approval Scanner is powered by Goplus a comprehensive tool designed to analyze and monitor the approvals granted to various contracts for spending tokens on behalf of users. This scanner is an essential part of risk management and security for token holders on blockchain networks like Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). By entering a verified contract address, users can access detailed information about the allowances set for that token, identifying potential risks and ensuring better control over their digital assets.
 
 ## <mark style="color:purple;">System Overview</mark>
 
