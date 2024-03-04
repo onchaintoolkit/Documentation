@@ -105,9 +105,9 @@ While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the
 
 ### Can I rely solely on the scanner for contract's security?
 
-**Part of a Broader Strategy:** Revoluzion should be part of a broader security strategy that includes manual reviews, professional audits, and ongoing monitoring. No single tool can guarantee complete security, given the complexity and evolving nature of smart contracts.
+**Part of a Broader Strategy:** _The Onchain Toolkit Scanner_ should be part of a broader security strategy that includes manual reviews, professional audits, and ongoing monitoring. No single tool can guarantee complete security, given the complexity and evolving nature of smart contracts.
 
-For further inquiries or specific issues not addressed in this FAQ, please contact the Revoluzion support team. Your security and satisfaction are our top priorities, and we're continually improving our services to meet your needs.
+
 
 ***
 
