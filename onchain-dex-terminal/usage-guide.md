@@ -5,7 +5,8 @@
 ### Monitoring Pools and Prices
 
 * Use the dashboard to view real-time data on pools and tokens.
-* Filter pools based on your criteria, such as TVL, volume, or age.
+
+
 
 ### Conducting Security Scans
 
