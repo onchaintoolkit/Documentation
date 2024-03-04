@@ -1,8 +1,8 @@
-# OnChain Dex Terminal Overview
+# OnChain Toolkit Overview
 
 ## <mark style="color:purple;">Overview</mark>
 
-The DEX Terminal is an innovative platform that serves as a vital resource for anyone involved in the decentralized finance (DeFi) ecosystem. By providing real-time data and powerful analytical tools, the terminal helps users make informed decisions, track market trends, and engage with various liquidity pools and tokens within the Ethereum network. This section delves deeper into the features, benefits, and operational aspects of the DEX Terminal, offering users a guide to maximizing its potential.
+The OnChain Toolkit is an innovative platform that serves as a vital resource for anyone involved in the decentralised finance (DeFi) ecosystem. By providing real-time data and powerful analytical tools, the terminal helps users make informed decisions, track market trends, and engage with various liquidity pools and tokens within Several Networks. This section delves deeper into the features, benefits, and operational aspects of the Onchain Toolkit, offering users a guide to maximising its potential.&#x20;
 
 
 
@@ -43,10 +43,10 @@ The DEX Terminal is an innovative platform that serves as a vital resource for a
 * **Active Community:** Join a vibrant community of traders, developers, and enthusiasts. Share insights, get support, and stay updated on the latest features.
 * **Dedicated Support:** Reach out to a dedicated support team for any technical issues or guidance.
 
-### Getting the Most Out of the DEX Terminal
+### Getting the Most Out of the Onchain Toolkit
 
 * **Regular Updates:** Stay tuned for regular updates, which bring new features, integrations, and improvements based on community feedback.
 * **Feedback and Customization:** Contribute to the platform's evolution by providing feedback and suggestions for new features or enhancements.
 * **Continuous Learning:** Engage with tutorials, webinars, and forums to continuously enhance your understanding and skills in the DeFi space.
 
-The DEX Terminal is more than just a tool; it's a dynamic platform designed to adapt and evolve with the DeFi landscape. It empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence. Whether you're a seasoned trader, a curious developer, or an insightful analyst, the DEX Terminal provides the resources you need to succeed in the rapidly growing world of decentralized finance.
+The Onchain Tollkit is more than just a tool; it's a dynamic platform designed to adapt and evolve with the DeFi landscape. It empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence. Whether you're a seasoned trader, a curious developer, or an insightful analyst, the Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance.

@@ -2,7 +2,7 @@
 
 ## OnChain Dex Terminal
 
-* [OnChain Dex Terminal Overview](README.md)
+* [OnChain Toolkit Overview](README.md)
 * [Getting Started](onchain-dex-terminal/getting-started.md)
 * [Usage Guide](onchain-dex-terminal/usage-guide.md)
 * [Key Features](onchain-dex-terminal/key-features.md)
