@@ -17,3 +17,5 @@ Rubic Exchange - [https://rubic.exchange](https://rubic.exchange/)
 CoinGecko - [https://coingecko.com](https://coingecko.com)
 
 GoPlus Lab - [https://gopluslabs.io](https://gopluslabs.io/)
+
+LayerZero Labs - [https://layerzero.network](https://layerzero.network/)
