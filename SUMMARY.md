@@ -19,7 +19,6 @@
 ## Dex Aggregator
 
 * [Dex Aggregator](dex-aggregator/dex-aggregator.md)
-* [User Guide & FAQ](dex-aggregator/user-guide-and-faq.md)
 
 ## Watchlist
 

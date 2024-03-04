@@ -2,7 +2,7 @@
 
 **Overview**
 
-The DEX Aggregator is a sophisticated platform enabling users to seamlessly swap tokens across three major blockchain networks: Ethereum, Binance Smart Chain (BSC), and Polygon. This aggregator streamlines the process of exchanging tokens by pooling liquidity from various decentralized exchanges (DEXes) to ensure users receive the best possible trade value.
+The Onchain Toolkit DEX Aggregator is a sophisticated platform enabling users to seamlessly swap tokens across three major blockchain networks: Ethereum, Binance Smart Chain (BSC), and Polygon. This aggregator streamlines the process of exchanging tokens by pooling liquidity from various decentralized exchanges (DEXes) to ensure users receive the best possible trade value.
 
 **How The DEX Aggregator Works**
 
@@ -27,4 +27,4 @@ The DEX Aggregator is a sophisticated platform enabling users to seamlessly swap
 
 **Conclusion**
 
-The DEX Aggregator offers a user-friendly, efficient, and effective solution for swapping tokens across multiple chains. By pooling liquidity and automating processes like slippage adjustment, it streamlines the trading process, though users should remain mindful of the characteristics of the tokens they trade.
+The Onchain Toolkit DEX Aggregator offers a user-friendly, efficient, and effective solution for swapping tokens across multiple chains. By pooling liquidity and automating processes like slippage adjustment, it streamlines the trading process, though users should remain mindful of the characteristics of the tokens they trade.The Onchain Tookit DEX Aggregator is powered By Rubic.

@@ -8,7 +8,7 @@ description: >-
 
 ## <mark style="color:purple;">Introduction</mark>
 
-Smart Contract Scanner is a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, Revoluzion provides developers, auditors, and stakeholders with crucial insights into smart contract code.
+Smart Contract Scanner is a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code.
 
 ***
 
@@ -35,7 +35,7 @@ The Scanner operates by accepting a smart contract address input from the user a
 
 ## <mark style="color:purple;">Heroku Server Usage</mark>
 
-The Revoluzion Scanner's back-end services are deployed on Heroku, a cloud platform as a service (PaaS) that enables seamless interaction with the Slither framework. Heroku's dynamic server allocation allows for the scalable execution of the Python script necessary for smart contract analysis.
+The Scanner's back-end services are deployed on Heroku, a cloud platform as a service (PaaS) that enables seamless interaction with the Slither framework. Heroku's dynamic server allocation allows for the scalable execution of the Python script necessary for smart contract analysis.
 
 ### Rate Limits and Operational Guidance
 
