@@ -1,20 +1,20 @@
 ---
 description: >-
-  Overview and technical documentation for Revoluzion Smart Contract scanner
-  utilizing Slither Analytic tool.
+  Overview and technical documentation for Smart Contract scanner utilizing
+  Slither Analytic tool.
 ---
 
-# Revoluzion Smart Contract Scanner
+# Smart Contract Scanner
 
 ## <mark style="color:purple;">Introduction</mark>
 
-Revoluzion Smart Contract Scanner is a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, Revoluzion provides developers, auditors, and stakeholders with crucial insights into smart contract code.
+Smart Contract Scanner is a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, Revoluzion provides developers, auditors, and stakeholders with crucial insights into smart contract code.
 
 ***
 
 ## <mark style="color:purple;">System Overview</mark>
 
-The Revoluzion Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
+The Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
 
 ***
 
