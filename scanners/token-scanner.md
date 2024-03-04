@@ -2,13 +2,13 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-The Token Scanner is an advanced analytical tool designed to provide an in-depth examination of tokens on various blockchain networks including Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). It is aimed at investors, developers, and analysts who need to assess the security, legitimacy, and potential risks associated with a token. By entering a verified contract address, users can receive a comprehensive breakdown of the token's characteristics and risk factors.
+The Onchain Toolkit Token Scanner is powered by Goplus, an advanced analytical tool designed to provide an in-depth examination of tokens on various blockchain networks including Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). It is aimed at investors, developers, and analysts who need to assess the security, legitimacy, and potential risks associated with a token. By entering a verified contract address, users can receive a comprehensive breakdown of the token's characteristics and risk factors.
 
 ***
 
 ## <mark style="color:purple;">System Overview</mark>
 
-The GoPlus Token Scanner operates through an API endpoint that accepts a request containing the contract address of a token. It returns a detailed response, including various attributes and risk factors associated with the token. The scanner analyzes the token's smart contract for common vulnerabilities, ownership details, liquidity provisions, and more.
+The Onchain Toolkit Token Scanner operates through an API endpoint that accepts a request containing the contract address of a token. It returns a detailed response, including various attributes and risk factors associated with the token. The scanner analyzes the token's smart contract for common vulnerabilities, ownership details, liquidity provisions, and more.
 
 ***
 
@@ -22,7 +22,7 @@ The GoPlus Token Scanner operates through an API endpoint that accepts a request
 
 ## <mark style="color:purple;">Key Features and Detected Attributes</mark>
 
-* **Contract Analysis**: Determines if the contract is open source, a proxy, mintable, and if it can be paused or has selfdestruct capabilities.
+* **Contract Analysis**: Determines if the contract is open source, a proxy, mintable, and if it can be paused or has self destruct capabilities.
 * **Ownership Details**: Identifies the creator's address, balance, and percentage of ownership. It also checks if the ownership is hidden or can be renounced.
 * **Anti-Whale Mechanisms**: Checks for mechanisms that limit the maximum transaction amount to prevent large holders (whales) from manipulating the token price.
 * **Tokenomics**: Provides details on the token's name, symbol, total supply, and taxes (if any) on buying and selling.
@@ -50,4 +50,4 @@ The GoPlus Token Scanner operates through an API endpoint that accepts a request
 
 ## <mark style="color:purple;">Conclusion</mark>
 
-The GoPlus Token Scanner is a potent tool for anyone looking to navigate the complex world of cryptocurrencies with an informed perspective. It provides a detailed analysis that helps in identifying potential red flags and understanding the broader context of a token's operation and risk profile. By using this tool, stakeholders in the crypto space can make more educated decisions and better protect their investments and projects.
+The Onchain Toolkit Token Scanner is a potent tool for anyone looking to navigate the complex world of cryptocurrencies with an informed perspective. It provides a detailed analysis that helps in identifying potential red flags and understanding the broader context of a token's operation and risk profile. By using this tool, stakeholders in the crypto space can make more educated decisions and better protect their investments and projects.
