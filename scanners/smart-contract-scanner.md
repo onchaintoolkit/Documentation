@@ -46,7 +46,7 @@ Due to Heroku server's rate limits and traffic management protocols, there are o
 
 ### Output and Recommendations
 
-Upon completion of the scan, the Revoluzion Smart Contract Scanner provides:
+Upon completion of the scan, the Onchain Toolkit Contract Scanner provides:
 
 * **Preliminary Analysis**: A brief report summarizing the identified vulnerabilities and areas for optimization.
 * **Actionable Recommendations**: Suggestions for improving contract security and efficiency based on the scan results.
@@ -89,7 +89,7 @@ While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the
 
 ### Will it work with non-flattened contracts?
 
-**Yes:** The Revoluzion Scanner is capable of working with non-flattened contracts. It automatically flattens the contract and proceeds with the scan. This means it consolidates all imported files and contracts into a single file for analysis.
+**Yes:** The Onchain Toolkit Scanner is capable of working with non-flattened contracts. It automatically flattens the contract and proceeds with the scan. This means it consolidates all imported files and contracts into a single file for analysis.
 
 ### What if I encounter a different error?
 
