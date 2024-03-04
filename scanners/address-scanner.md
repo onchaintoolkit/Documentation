@@ -2,11 +2,11 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-The GoPlus Address Scanner is a sophisticated tool designed to evaluate blockchain addresses and assess their association with various illicit activities or suspicious behaviors. It's a crucial resource for users, exchanges, and organizations looking to perform due diligence and enhance their security protocols on networks like Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). By querying a specific address, users can obtain a comprehensive risk profile, aiding in the identification and avoidance of potentially harmful or high-risk entities.
+The Onchain Toolkit Address Scanner is powered by Goplus, a sophisticated tool designed to evaluate blockchain addresses and assess their association with various illicit activities or suspicious behaviors. It's a crucial resource for users, exchanges, and organizations looking to perform due diligence and enhance their security protocols on networks like Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). By querying a specific address, users can obtain a comprehensive risk profile, aiding in the identification and avoidance of potentially harmful or high-risk entities.
 
 ## <mark style="color:purple;">System Overview</mark>
 
-The GoPlus Address Scanner operates via an API endpoint that accepts a request containing the blockchain address in question. It returns a detailed response, providing a breakdown of the address's involvement in various flagged activities.
+The Onchain Toolkit Address Scanner operates via an API endpoint that accepts a request containing the blockchain address in question. It returns a detailed response, providing a breakdown of the address's involvement in various flagged activities.
 
 ## <mark style="color:purple;">How It Works</mark>
 
@@ -50,4 +50,4 @@ The GoPlus Address Scanner operates via an API endpoint that accepts a request c
 
 ## <mark style="color:purple;">Conclusion</mark>
 
-The GoPlus Address Scanner is an essential tool for anyone involved in the blockchain ecosystem seeking to understand and mitigate potential risks. It provides a detailed and multifaceted view of an address's associations with various types of activities, helping users make more informed decisions and maintain the integrity of their operations and assets. Regular use of this scanner, combined with other security practices, is recommended for maintaining a high standard of due diligence and risk management.
+The Onchain Toolkit Address Scanner is an essential tool for anyone involved in the blockchain ecosystem seeking to understand and mitigate potential risks. It provides a detailed and multifaceted view of an address's associations with various types of activities, helping users make more informed decisions and maintain the integrity of their operations and assets. Regular use of this scanner, combined with other security practices, is recommended for maintaining a high standard of due diligence and risk management.
