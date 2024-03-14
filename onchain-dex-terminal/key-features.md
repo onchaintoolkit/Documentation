@@ -43,3 +43,9 @@
 ### 9. Twitter / X Search
 
 * **Search Instantly:** Users can instantly search token symbols on Twitter (X) via a click of a button on any pair page. The system will automatically execute a search based on the token symbol of the pair page itself.
+
+### 9. Autonomous AI Assistants
+
+* **Multiple AI Assistants:** The OnChain Toolkit employs a suite of specialized AI Assistants tailored to meet diverse requirements. Leveraging cutting-edge LLM and RAG technologies, our assistants offer unparalleled accuracy and efficiency.
+* Specialized Functionality: Each AI Assistant is meticulously programmed to cater to specific tasks and functions, ensuring optimal performance and precision.
+

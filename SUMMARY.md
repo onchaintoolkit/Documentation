@@ -22,6 +22,10 @@
 * [Approval Allowance Scanner](scanners/approval-allowance-scanner.md)
 * [Address Scanner](scanners/address-scanner.md)
 
+## Crosschain Swap
+
+* [OnChain Crosschain Swap](crosschain-swap/onchain-crosschain-swap.md)
+
 ## Dex Aggregator
 
 * [Dex Aggregator](dex-aggregator/dex-aggregator.md)
