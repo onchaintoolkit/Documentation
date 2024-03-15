@@ -30,6 +30,10 @@
 
 * [Dex Aggregator](dex-aggregator/dex-aggregator.md)
 
+## Fiat On-Ramp
+
+* [Introduction](fiat-on-ramp/introduction.md)
+
 ## Watchlist
 
 * [Token Watchlist](watchlist/token-watchlist.md)
@@ -41,7 +45,3 @@
 ***
 
 * [Strategic Partners](strategic-partners.md)
-
-## Fiat On-Ramp
-
-* [Introduction](fiat-on-ramp/introduction.md)
