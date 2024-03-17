@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Introduction</mark>
 
-The OnChain Toolkit Autonomous AI is an advanced artificial intelligence system designed to empower users in navigating the intricate landscape of cryptocurrency markets. Developed by the Revoluzion Ecosystem team, this AI leverages state-of-the-art language understanding and adaptation techniques to offer personalized recommendations and financial management guidance.
+The OnChain Toolkit Autonomous AI is an advanced artificial intelligence system designed to empower users in navigating the intricate landscape of cryptocurrency markets. This AI leverages state-of-the-art language understanding and adaptation techniques to offer personalized recommendations and financial management guidance.
 
 ### <mark style="color:purple;">Key Features</mark>
 
@@ -12,7 +12,7 @@ The AI utilizes a Language Learning Model (LLM) in conjunction with Semantic Ana
 
 #### <mark style="color:purple;">Data Feeding and Training</mark>
 
-The AI has been meticulously trained on vast amounts of data, including historical market trends, analytics, and news coverage. The Revoluzion Ecosystem team continuously updates and enriches the AI's dataset to ensure it remains relevant and well-informed.
+The AI has been meticulously trained on vast amounts of data, including historical market trends, analytics, and news coverage.Our team continuously updates and enriches the AI's dataset to ensure it remains relevant and well-informed.
 
 #### <mark style="color:purple;">Access to Current Data Analytics</mark>
 
