@@ -8,4 +8,4 @@ While the OnChain Toolkit Autonomous AI strives to provide valuable insights and
 
 ### <mark style="color:purple;">Conclusion</mark>
 
-The OnChain Toolkit Autonomous AI is a robust tool for cryptocurrency investors, offering them personalized insights and guidance to navigate the dynamic market landscape. Developed by the Revoluzion Ecosystem team and continuously trained on up-to-date datasets, this AI is poised to assist users in making informed decisions and managing their investments effectively.
+The OnChain Toolkit Autonomous AI is a robust tool for cryptocurrency investors, offering them personalized insights and guidance to navigate the dynamic market landscape. Continuously trained on up-to-date datasets, this AI is poised to assist users in making informed decisions and managing their investments effectively.
