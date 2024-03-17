@@ -46,6 +46,6 @@
 
 ### 9. Autonomous AI Assistants
 
-* The OnChain Toolkit employs a suite of specialized AI Assistants tailored to meet diverse requirements. Leveraging cutting-edge LLM and RAG technologies, our assistants offer unparalleled accuracy and efficiency.
+* The OnChain Toolkit employs a suite of specialized AI Assistants tailored to meet diverse requirements. Leveraging cutting-edge LLM and RAG technologies, our AI assistants offer unparalleled accuracy and efficiency.
 * Specialized Functionality: Each AI Assistant is meticulously programmed to cater to specific tasks and functions, ensuring optimal performance and precision.
 
