@@ -1,6 +1,6 @@
 # Usage Guide
 
-## <mark style="color:purple;">Usage Guide</mark>
+## <mark style="color:green;">Usage Guide</mark>
 
 ### Monitoring Pools and Prices
 
@@ -8,7 +8,7 @@
 
 **Conducting Security Scans**
 
-Enter the contract address you wish to scan in the Contract scanner tool.
+&#x20;    Enter the contract address you wish to scan in the Contract scanner tool.
 
 * Review the detailed report, noting any potential issues or optimizations.
 * Use scanners to assess tokens and addresses, ensuring safety and transparency.

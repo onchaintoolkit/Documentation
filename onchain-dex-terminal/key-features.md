@@ -1,6 +1,6 @@
 # Key Features
 
-## <mark style="color:purple;">Key Features</mark>
+## <mark style="color:green;">Key Features</mark>
 
 ### 1. Liquidity Pool and Token Price Display
 

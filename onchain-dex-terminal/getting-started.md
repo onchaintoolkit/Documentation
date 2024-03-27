@@ -1,6 +1,6 @@
 # Getting Started
 
-## <mark style="color:purple;">Getting Started</mark>
+## <mark style="color:green;">Getting Started</mark>
 
 ### Prerequisites
 
@@ -9,6 +9,6 @@
 
 ### Accessing the Terminal
 
-1. Navigate to onchain [https://onchaintoolkit.com](https://onchaintoolkit.com)
+1. Navigate to onchain [<mark style="color:green;">https://onchaintoolkit.com</mark>](https://onchaintoolkit.com)
 2. Connect your web3 wallet via wallet connect button and select the wallet you are utilizing.
 3. Select the network you wish to interact with from the top navigation bar.
