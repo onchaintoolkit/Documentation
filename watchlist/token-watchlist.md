@@ -1,14 +1,14 @@
 # Token Watchlist
 
-## <mark style="color:purple;">Introduction</mark>
+## <mark style="color:green;">Introduction</mark>
 
 Welcome to the OnChain Toolkit Watchlist User Guide. This guide will assist you in leveraging the Watchlist feature effectively, enabling you to curate a personalized watchlist of tokens. With this feature, users can efficiently monitor tokens of interest, access essential data such as token prices, trading volume, market capitalization, and price fluctuations, while also having the capability to manage their watchlist by adding or removing tokens.
 
-### <mark style="color:purple;">1. Getting Started</mark>
+### <mark style="color:green;">1. Getting Started</mark>
 
 This guide will help you add tokens to your watchlist page.
 
-### <mark style="color:purple;">2. Adding Tokens to Your Watchlist</mark>
+### <mark style="color:green;">2. Adding Tokens to Your Watchlist</mark>
 
 To include tokens in your watchlist, follow these steps:
 
@@ -20,7 +20,7 @@ To include tokens in your watchlist, follow these steps:
 
 The token is now incorporated into your watchlist, allowing you to closely monitor its pertinent data.
 
-### <mark style="color:purple;">3. Viewing Your Watchlist</mark>
+### <mark style="color:green;">3. Viewing Your Watchlist</mark>
 
 To access and view your watchlist:
 
@@ -30,7 +30,7 @@ To access and view your watchlist:
 
 With this feature, you can effortlessly track your selected tokens and stay updated on their performance.
 
-### <mark style="color:purple;">4. Managing Your Watchlist</mark>
+### <mark style="color:green;">4. Managing Your Watchlist</mark>
 
 Efficiently manage your watchlist with the following options:
 
@@ -38,7 +38,7 @@ Efficiently manage your watchlist with the following options:
 2. Employ the search bar to swiftly locate a particular token within your watchlist.
 3. Customize the view of your watchlist to display or hide specific data columns as needed.
 
-### <mark style="color:purple;">5. Removing Tokens from Your Watchlist</mark>
+### <mark style="color:green;">5. Removing Tokens from Your Watchlist</mark>
 
 Should you wish to discontinue tracking a particular token within your watchlist:
 

@@ -1,18 +1,18 @@
 # Token Scanner
 
-## <mark style="color:purple;">Introduction</mark>
+## <mark style="color:green;">Introduction</mark>
 
 The Onchain Toolkit Token Scanner is powered by Goplus, an advanced analytical tool designed to provide an in-depth examination of tokens on various blockchain networks including Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). It is aimed at investors, developers, and analysts who need to assess the security, legitimacy, and potential risks associated with a token. By entering a verified contract address, users can receive a comprehensive breakdown of the token's characteristics and risk factors.
 
 ***
 
-## <mark style="color:purple;">System Overview</mark>
+## <mark style="color:green;">System Overview</mark>
 
 The Onchain Toolkit Token Scanner operates through an API endpoint that accepts a request containing the contract address of a token. It returns a detailed response, including various attributes and risk factors associated with the token. The scanner analyzes the token's smart contract for common vulnerabilities, ownership details, liquidity provisions, and more.
 
 ***
 
-## <mark style="color:purple;">How It Works</mark>
+## <mark style="color:green;">How It Works</mark>
 
 1. **User Input**: Users select the blockchain network (ETH, BSC, or Polygon) and enter the verified contract address of the token they wish to analyze.
 2. **API Request**: The provided contract address is sent to the GoPlus Token Scanner API endpoint.
@@ -20,7 +20,7 @@ The Onchain Toolkit Token Scanner operates through an API endpoint that accepts 
 
 ***
 
-## <mark style="color:purple;">Key Features and Detected Attributes</mark>
+## <mark style="color:green;">Key Features and Detected Attributes</mark>
 
 * **Contract Analysis**: Determines if the contract is open source, a proxy, mintable, and if it can be paused or has self destruct capabilities.
 * **Ownership Details**: Identifies the creator's address, balance, and percentage of ownership. It also checks if the ownership is hidden or can be renounced.
@@ -32,7 +32,7 @@ The Onchain Toolkit Token Scanner operates through an API endpoint that accepts 
 
 ***
 
-## <mark style="color:purple;">Operational Guidance</mark>
+## <mark style="color:green;">Operational Guidance</mark>
 
 * **Verified Contracts Only**: The scanner requires the token's contract to be verified, as it relies on analyzing the contract's source code.
 * **Rate Limits**: Note that API rate limits may apply. If a request fails, wait a moment before trying again.
@@ -40,7 +40,7 @@ The Onchain Toolkit Token Scanner operates through an API endpoint that accepts 
 
 ***
 
-## <mark style="color:purple;">Best Practices and Disclaimer</mark>
+## <mark style="color:green;">Best Practices and Disclaimer</mark>
 
 * **Supplementary Research**: The scanner's output should complement your research and due diligence. Always look into the project's team, history, and community discussions.
 * **Professional Consultation**: For significant investments or development, consult with a professional auditor or legal advisor to interpret the findings appropriately.

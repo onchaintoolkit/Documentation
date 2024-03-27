@@ -8,14 +8,14 @@ Collaborations with various blockchain networks enhance our toolkit's compatibil
 
 ### List of Strategic Partners
 
-Revoluzion Ecosystem - [https://revoluzion.io](https://revoluzion.io)
+Revoluzion Ecosystem - [<mark style="color:green;">https://revoluzion.io</mark>](https://revoluzion.io)
 
-TradingView - [https://tradingview.com](https://tradingview.com)
+TradingView - [<mark style="color:green;">https://tradingview.com</mark>](https://tradingview.com)
 
-Rubic Exchange - [https://rubic.exchange](https://rubic.exchange/)
+Rubic Exchange - [<mark style="color:green;">https://rubic.exchange</mark>](https://rubic.exchange/)
 
-CoinGecko - [https://coingecko.com](https://coingecko.com)
+CoinGecko - [<mark style="color:green;">https://coingecko.com</mark>](https://coingecko.com)
 
-GoPlus Lab - [https://gopluslabs.io](https://gopluslabs.io/)
+GoPlus Lab - [<mark style="color:green;">https://gopluslabs.io</mark>](https://gopluslabs.io/)
 
-LayerZero Labs - [https://layerzero.network](https://layerzero.network/)
+LayerZero Labs - [<mark style="color:green;">https://layerzero.network</mark>](https://layerzero.network/)

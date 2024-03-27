@@ -2,7 +2,7 @@
 
 Crosschain swaps are a core feature of Onchain Toolkit, utilizing LayerZero technology to seamlessly transfer assets across different blockchain networks.
 
-### <mark style="color:purple;">Key Features</mark>
+### <mark style="color:green;">Key Features</mark>
 
 **Crosschain Swaps:** With LayerZero technology, Onchain Toolkit enables trustless crosschain swaps, facilitating secure and efficient asset exchanges between disparate blockchain networks.
 
@@ -10,7 +10,7 @@ Crosschain swaps are a core feature of Onchain Toolkit, utilizing LayerZero tech
 
 **Enhanced Liquidity:** By connecting fragmented markets across various blockchain networks, Onchain Toolkit enhances liquidity and market efficiency, providing users with easier access to a wider range of assets.
 
-### <mark style="color:purple;">Benefits</mark>
+### <mark style="color:green;">Benefits</mark>
 
 **Seamless Asset Exchange:** Onchain Toolkit simplifies asset exchange by enabling seamless crosschain swaps, eliminating the need for traditional centralized exchanges.
 

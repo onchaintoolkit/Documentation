@@ -1,14 +1,14 @@
 # OnChain Price Notification
 
-## <mark style="color:purple;">Introduction</mark>
+## <mark style="color:green;">Introduction</mark>
 
 The OnChain Toolkit now offers an advanced Price Notification feature that allows users to receive browser pop-up notifications based on specific token price increase percentages. This feature enhances your trading experience and keeps you updated on market movements in real-time. Notifications will only pop up if your browser has the OnChain Toolkit open. Users can effortlessly set up and manage these notifications for tokens, enabling you to stay informed about price changes as they happen.
 
-### <mark style="color:purple;">1. Getting Started</mark>
+### <mark style="color:green;">1. Getting Started</mark>
 
 Before utilizing the Price Notification feature, ensure that you are logged into your OnChain Toolkit account and have the platform open in your browser.
 
-### <mark style="color:purple;">2. Setting Up Price Notifications</mark>
+### <mark style="color:green;">2. Setting Up Price Notifications</mark>
 
 To enable Price Notifications for specific tokens:
 
@@ -18,7 +18,7 @@ To enable Price Notifications for specific tokens:
 
 Once activated, you will receive browser pop-up notifications when the token's price increases by the specified percentage.
 
-### <mark style="color:purple;">3. Managing Price Notifications</mark>
+### <mark style="color:green;">3. Managing Price Notifications</mark>
 
 Effectively manage your Price Notifications with these options:
 
@@ -26,7 +26,7 @@ Effectively manage your Price Notifications with these options:
 2. Notifications will include relevant information such as the token name, current price, and percentage increase.
 3. Clicking on a notification will redirect you to the token charting pair page for detailed information.
 
-### <mark style="color:purple;">4. Removing Price Notifications</mark>
+### <mark style="color:green;">4. Removing Price Notifications</mark>
 
 If you no longer wish to receive Price Notifications for a particular token:
 

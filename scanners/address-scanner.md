@@ -1,20 +1,20 @@
 # Address Scanner
 
-## <mark style="color:purple;">Introduction</mark>
+## <mark style="color:green;">Introduction</mark>
 
 The Onchain Toolkit Address Scanner is powered by Goplus, a sophisticated tool designed to evaluate blockchain addresses and assess their association with various illicit activities or suspicious behaviors. It's a crucial resource for users, exchanges, and organizations looking to perform due diligence and enhance their security protocols on networks like Ethereum (ETH), Binance Smart Chain (BSC), and Polygon (MATIC). By querying a specific address, users can obtain a comprehensive risk profile, aiding in the identification and avoidance of potentially harmful or high-risk entities.
 
-## <mark style="color:purple;">System Overview</mark>
+## <mark style="color:green;">System Overview</mark>
 
 The Onchain Toolkit Address Scanner operates via an API endpoint that accepts a request containing the blockchain address in question. It returns a detailed response, providing a breakdown of the address's involvement in various flagged activities.
 
-## <mark style="color:purple;">How It Works</mark>
+## <mark style="color:green;">How It Works</mark>
 
 1. **User Input**: Users enter the blockchain address they wish to analyze.
 2. **API Request**: The provided address is sent to the GoPlus Address Scanner API endpoint.
 3. **Data Analysis**: The scanner processes the address and returns a JSON object detailing the address's association with various risky activities.
 
-## <mark style="color:purple;">Key Features and Data Points</mark>
+## <mark style="color:green;">Key Features and Data Points</mark>
 
 * **Risk Assessment**: The scanner assesses the address for associations with various types of risky activities, including:
   * **Cybercrime**: Involvement in online criminal activities.
@@ -36,13 +36,13 @@ The Onchain Toolkit Address Scanner operates via an API endpoint that accepts a 
   * **Mixer**: Usage of services that mix potentially identifiable or 'tainted' cryptocurrency funds with others.
   * **Honeypot Related Address**: Association with addresses involved in honeypot schemes.
 
-## <mark style="color:purple;">Operational Guidance</mark>
+## <mark style="color:green;">Operational Guidance</mark>
 
 * **Interpreting Results**: The data returned should be used as a guide to understand the potential risks associated with an address. A high number of flagged activities could indicate a higher risk.
 * **Due Diligence**: Always combine the results from the scanner with other due diligence methods. Consider the context and recent activities of the address.
 * **Regular Monitoring**: The risk profile of an address can change over time. Regularly re-scan addresses, especially if they are part of ongoing transactions or partnerships.
 
-## <mark style="color:purple;">Best Practices and Disclaimer</mark>
+## <mark style="color:green;">Best Practices and Disclaimer</mark>
 
 * **Comprehensive Security**: Use the scanner as part of a comprehensive security and risk management strategy. No single tool can provide complete protection or risk assessment.
 * **Expert Consultation**: If you're unsure about the results or need further analysis, consult with a security expert or legal advisor.

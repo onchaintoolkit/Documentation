@@ -2,7 +2,7 @@
 
 The integration of Onramper technology into the Onchain Toolkit platform represents a significant advancement in connecting traditional fiat currencies with cryptocurrencies. By leveraging Onramper's cutting-edge infrastructure and user-friendly interface, users can easily initiate fiat-to-crypto transactions within the Onchain Toolkit platform. Onramper offers support for various payment methods, including bank transfers, credit cards, and other popular options, ensuring flexibility and convenience for users worldwide.
 
-### <mark style="color:purple;">**Key Features**</mark>
+### <mark style="color:green;">**Key Features**</mark>
 
 **Seamless Fiat On-Ramp:** Onramper technology allows users to convert fiat currencies into cryptocurrencies directly within the Onchain Toolkit platform, eliminating the need for external exchanges or intermediary services.
 
@@ -10,7 +10,7 @@ The integration of Onramper technology into the Onchain Toolkit platform represe
 
 **Multiple Payment Options:** Onramper provides support for a wide range of payment methods, catering to diverse user preferences and ensuring global accessibility.
 
-### <mark style="color:purple;">Benefits</mark>
+### <mark style="color:green;">Benefits</mark>
 
 **Enhanced Accessibility:** Onramper's integration enhances the accessibility of the Onchain Toolkit platform, enabling users to seamlessly onboard and participate in DeFi activities without prior cryptocurrency holdings.
 

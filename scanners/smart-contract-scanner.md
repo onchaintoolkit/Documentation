@@ -6,19 +6,19 @@ description: >-
 
 # Smart Contract Scanner
 
-## <mark style="color:purple;">Introduction</mark>
+## <mark style="color:green;">Introduction</mark>
 
 The Onchain Toolkit Smart Contract Scanner is powered by Revoluzion, a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code.
 
 ***
 
-## <mark style="color:purple;">System Overview</mark>
+## <mark style="color:green;">System Overview</mark>
 
 The Onchain Toolkit Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
 
 ***
 
-## <mark style="color:purple;">Technical Workflow</mark>
+## <mark style="color:green;">Technical Workflow</mark>
 
 ### Input and Initialization:
 
@@ -33,7 +33,7 @@ The Onchain Toolkit Scanner operates by accepting a smart contract address input
 
 ***
 
-## <mark style="color:purple;">Heroku Server Usage</mark>
+## <mark style="color:green;">Heroku Server Usage</mark>
 
 The Onchain Toolkit Scanner's back-end services are deployed on Heroku, a cloud platform as a service (PaaS) that enables seamless interaction with the Slither framework. Heroku's dynamic server allocation allows for the scalable execution of the Python script necessary for smart contract analysis.
 
@@ -53,7 +53,7 @@ Upon completion of the scan, the Onchain Toolkit Contract Scanner provides:
 
 ***
 
-## <mark style="color:purple;">Disclaimer and Best Practices</mark>
+## <mark style="color:green;">Disclaimer and Best Practices</mark>
 
 While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the automated analysis should not be deemed infallible. Users are strongly recommended to:
 
@@ -63,7 +63,7 @@ While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the
 
 ***
 
-## <mark style="color:purple;">Frequently Asked Questions</mark>
+## <mark style="color:green;">Frequently Asked Questions</mark>
 
 ### Why doesn't it work at times?
 
