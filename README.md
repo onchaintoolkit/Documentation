@@ -1,6 +1,6 @@
 # OnChain Toolkit Overview
 
-## <mark style="color:purple;">Overview</mark>
+## <mark style="color:green;">Overview</mark>
 
 The OnChain Toolkit is an innovative platform that serves as a vital resource for anyone involved in the decentralised finance (DeFi) ecosystem. By providing real-time data and powerful analytical tools, the terminal helps users make informed decisions, track market trends, and engage with various liquidity pools and tokens within Several Networks. This section delves deeper into the features, benefits, and operational aspects of the Onchain Toolkit, offering users a guide to maximising its potential.&#x20;
 
