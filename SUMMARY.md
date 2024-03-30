@@ -9,11 +9,11 @@
 * [Tokenomics](onchain-dex-terminal/tokenomics.md)
 * [Project Roadmap](onchain-dex-terminal/project-roadmap.md)
 
-## Autonomous AI Assistants
+## Smart Autonomous AI Assistants
 
-* [Introduction](autonomous-ai-assistants/introduction.md)
-* [How It Works](autonomous-ai-assistants/how-it-works.md)
-* [Disclaimer](autonomous-ai-assistants/disclaimer.md)
+* [Introduction](smart-autonomous-ai-assistants/introduction.md)
+* [How It Works](smart-autonomous-ai-assistants/how-it-works.md)
+* [Disclaimer](smart-autonomous-ai-assistants/disclaimer.md)
 
 ## Scanners
 
