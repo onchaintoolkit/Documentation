@@ -1,13 +1,13 @@
 # Table of contents
 
-## OnChain Dex Terminal
+## OnChain Trading Ecosystem
 
 * [OnChain Toolkit Overview](README.md)
-* [Getting Started](onchain-dex-terminal/getting-started.md)
-* [Usage Guide](onchain-dex-terminal/usage-guide.md)
-* [Key Features](onchain-dex-terminal/key-features.md)
-* [Tokenomics](onchain-dex-terminal/tokenomics.md)
-* [Project Roadmap](onchain-dex-terminal/project-roadmap.md)
+* [Getting Started](onchain-trading-ecosystem/getting-started.md)
+* [Usage Guide](onchain-trading-ecosystem/usage-guide.md)
+* [Key Features](onchain-trading-ecosystem/key-features.md)
+* [Tokenomics](onchain-trading-ecosystem/tokenomics.md)
+* [Project Roadmap](onchain-trading-ecosystem/project-roadmap.md)
 
 ## Smart Autonomous AI Models
 
