@@ -9,11 +9,9 @@
 * [Tokenomics](onchain-trading-ecosystem/tokenomics.md)
 * [Project Roadmap](onchain-trading-ecosystem/project-roadmap.md)
 
-## Smart Autonomous AI Models
+## Smart Autonomous AI Agents
 
-* [Introduction](smart-autonomous-ai-models/introduction.md)
-* [How It Works](smart-autonomous-ai-models/how-it-works.md)
-* [Disclaimer](smart-autonomous-ai-models/disclaimer.md)
+* [Introduction](smart-autonomous-ai-agents/introduction.md)
 
 ## Scanners
 
