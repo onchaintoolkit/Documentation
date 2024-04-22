@@ -11,7 +11,7 @@
 
 ## Smart Autonomous AI Agents
 
-* [Introduction](smart-autonomous-ai-agents/introduction.md)
+* [Innovative Multi-Agent Trading System](smart-autonomous-ai-agents/innovative-multi-agent-trading-system.md)
 
 ## Scanners
 
