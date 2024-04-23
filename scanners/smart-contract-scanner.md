@@ -4,17 +4,17 @@ description: >-
   Slither Analytic tool.
 ---
 
-# Smart Contract Scanner
+# AI Smart Contract Scanner
 
 ## <mark style="color:green;">Introduction</mark>
 
-The Onchain Toolkit Smart Contract Scanner is powered by Revoluzion, a state-of-the-art analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code.
+Onchain Toolkit Smart Contract Scanner is powered by Revoluzion, an advanced AI-driven analytical tool designed to enhance the security and performance of smart contracts on various blockchain networks. The scanner leverages the power of Slither, a Python-based static analysis framework, to identify potential vulnerabilities and optimization opportunities within smart contracts. Hosted on Heroku’s robust cloud platform, it provides developers, auditors, and stakeholders with crucial insights into smart contract code, integrating cutting-edge AI technology to ensure thorough analysis and improved contract integrity.
 
 ***
 
 ## <mark style="color:green;">System Overview</mark>
 
-The Onchain Toolkit Scanner operates by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract.
+Onchain Toolkit Scanner is enhanced by integrating AI capabilities, operating by accepting a smart contract address input from the user along with the selection of the corresponding blockchain network. This input initiates a comprehensive AI-assisted scanning process powered by the Slither framework, which examines the bytecode and source code, when available, of the submitted smart contract. The inclusion of AI technologies allows for more nuanced analysis and prediction of potential vulnerabilities.
 
 ***
 
@@ -27,8 +27,8 @@ The Onchain Toolkit Scanner operates by accepting a smart contract address input
 
 ### Analysis Process:
 
-* **Slither Integration**: Upon submission, the scanner triggers a Heroku-hosted Python script that utilizes Slither to statically analyze the contract.
-* **Vulnerability Detection**: Slither inspects the contract's codebase for known patterns that indicate potential security issues or areas for codebase optimization.
+* **Slither Integration**: Upon submission, the scanner triggers a Heroku-hosted Python script that utilizes Slither, enhanced by AI algorithms, to statically analyze the contract.
+* **Vulnerability Detection**:AI-driven Slither inspects the contract’s codebase for known patterns that indicate potential security issues or areas for codebase optimization.
 * **Optimization Identification**: The program assesses the contract's structure and logic for efficiency and optimization opportunities.
 
 ***

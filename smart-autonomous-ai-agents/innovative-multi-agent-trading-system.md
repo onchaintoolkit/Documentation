@@ -1,6 +1,6 @@
-# Introduction
+# Innovative Multi-Agent Trading System
 
-This framework outlines a strategic design for a multi-agent trading system based on extensive research. The Onchain Toolkit employs four distinct agents, each playing a specific role in the trading workflow. The initial trio of agents specializes in different trading functions: risk analysis, strategy development, and user interaction. They utilize targeted data to execute their roles—assessing risks in the portfolio, creating strategies based on technical analysis and market trends, and providing users with tailored advice and immediate notifications. The fourth agent, an integrative one, synthesizes information from the first three and incorporates human judgment to make the ultimate trading decisions. The system is designed to capitalize on the unique strengths of each agent to enhance trading performance in a unified and strategic manner.
+This framework outlines a strategic design for a multi-agent trading system based on extensive research. Onchain Toolkit employs four distinct agents, each playing a specific role in the trading workflow. The initial trio of agents specializes in different trading functions: risk analysis, strategy development, and user interaction. They utilize targeted data to execute their roles—assessing risks in the portfolio, creating strategies based on technical analysis and market trends, and providing users with tailored advice and immediate notifications. The fourth agent, an integrative one, synthesizes information from the first three and incorporates human judgment to make the ultimate trading decisions. The system is designed to capitalize on the unique strengths of each agent to enhance trading performance in a unified and strategic manner.
 
 ## <mark style="color:green;">Risk-Focused Agent</mark>
 
@@ -36,11 +36,4 @@ This framework outlines a strategic design for a multi-agent trading system base
 
 ## <mark style="color:green;">Future Scopes</mark>
 
-* **Enhanced Risk Assessment:** Implementing statistical and machine learning methods will further refine risk analysis across portfolios. Techniques such as variance-covariance matrices and Monte Carlo simulations, utilizing the Quant-lib Python library, will enable predictions of potential financial losses under varying market conditions.
-* **Advanced Chart Analysis:** Deploying deep learning models will aid in recognizing and forecasting the performance of different chart patterns and technical indicators over time. This approach will improve the precision of technical analysis in trading strategies.
-* **Algorithmic Trading Enhancements:** Developing algorithms to detect price differences across various trading platforms will allow for executing trades that leverage these discrepancies. These algorithms will be designed to comply with specific exchange regulations and account for latency issues, optimizing the potential for profitable trades.
-
-\
-
-
-\
+Incorporating statistical and machine learning techniques to analyze risk factors across portfolios, for instance, by using variance-covariance matrices and Monte Carlo simulations through the Quant-lib Python library to estimate potential losses in varying market conditions. Additionally, deploying deep learning models to assess and forecast the effectiveness of different chart patterns and technical indicators. Designing algorithms to identify price differences across various exchanges and executing trades to leverage these discrepancies, all while complying with exchange regulations and addressing latency concerns.

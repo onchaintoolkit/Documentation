@@ -30,7 +30,7 @@
 
 ### 6. CrossChain Swaps
 
-* **Multi-Network:** Crosschain swaps among other cryptocurrencies directly with via a secure, integrated crosschain aggregator.&#x20;
+* **Multi-Network:** Execute crosschain swaps among various cryptocurrencies through a secure, integrated crosschain aggregator powered by LayerZero
 
 ### 7. Bubble Maps Integration
 

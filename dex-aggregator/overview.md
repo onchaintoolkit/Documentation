@@ -1,8 +1,8 @@
-# Dex Aggregator
+# Overview
 
 **Overview**
 
-The Onchain Toolkit DEX Aggregator is powered by Rubic, a sophisticated platform enabling users to seamlessly swap tokens across three major blockchain networks: Ethereum, Binance Smart Chain (BSC), and Polygon. This aggregator streamlines the process of exchanging tokens by pooling liquidity from various decentralized exchanges (DEXes) to ensure users receive the best possible trade value.
+Onchain Toolkit DEX Aggregator is powered by Rubic, a sophisticated platform enabling users to seamlessly swap tokens across three major blockchain networks: Ethereum, Binance Smart Chain (BSC), and Polygon. This aggregator streamlines the process of exchanging tokens by pooling liquidity from various decentralized exchanges (DEXes) to ensure users receive the best possible trade value.
 
 **How The DEX Aggregator Works**
 
