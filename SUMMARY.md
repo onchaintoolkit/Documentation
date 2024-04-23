@@ -15,14 +15,14 @@
 
 ## Scanners
 
-* [Smart Contract Scanner](scanners/smart-contract-scanner.md)
+* [AI Smart Contract Scanner](scanners/ai-smart-contract-scanner.md)
 * [Token Scanner](scanners/token-scanner.md)
 * [Approval Allowance Scanner](scanners/approval-allowance-scanner.md)
 * [Address Scanner](scanners/address-scanner.md)
 
 ## Crosschain Swap
 
-* [OnChain Crosschain Swap](crosschain-swap/onchain-crosschain-swap.md)
+* [Crosschain Swaps Powered By LayerZero](crosschain-swap/crosschain-swaps-powered-by-layerzero.md)
 
 ## Dex Aggregator
 
