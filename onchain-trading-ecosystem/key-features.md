@@ -44,9 +44,9 @@
 
 Key functionalities include:
 
-* **Risk-Focused Agent:** Assesses portfolio risks using user wallet data, with tools for tracking and correlation analysis like Gecko Terminal API and TradingView.
+* **Risk-Focused Agent:** Utilizes GPU-enhanced algorithms to assess portfolio risks using user wallet data, with tools for tracking and correlation analysis like Gecko Terminal API and TradingView
 * **Strategy-Oriented Agent:** Analyzes charts using data and indicators from Ta-Lib and Quant-Lib, adjusts strategies based on market sentiment, and creates trading signals.
-* **User-Centric Agent:** Offers customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
+* **User-Centric Agent:** Employs GPU processing to offer customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
 * **Hybrid Agent:** Integrates all agent inputs to form comprehensive trading decisions and manages trade execution on platforms like Tradingview.
 
 \
