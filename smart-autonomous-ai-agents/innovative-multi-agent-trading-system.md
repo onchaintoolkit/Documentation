@@ -20,14 +20,14 @@ This framework outlines a strategic design for a multi-agent trading system base
 
 ## <mark style="color:green;">Strategy-Oriented Agent</mark>
 
-* **Chart Pattern Analysis:** Historical data is analyzed using technical indicators from the Ta-Lib Python library, which is known for its technical analysis capabilities. For advanced financial analysis, we also incorporate Quant-Lib to examine chart patterns thoroughly, leveraging GPU processing for faster computations.
+* **Chart Pattern Analysis:** Historical data is analyzed using technical indicators from the Ta-Lib Python library, which is known for its technical analysis capabilities. For advanced financial analysis, we also incorporate Quant-Lib to examine chart patterns thoroughly.
 * **Market Sentiment Analysis:** To track the public mood surrounding specific trading assets, we perform sentiment analysis, allowing users to query news about their traded assets. The system dynamically creates URLs to fetch news in JSON format, converting this information into text documents. Each article is categorized by date, title, content, and sentiment. A ranking system scores these documents based on sentiment and other factors. Queries about specific assets are answered using a Large Language Model, which selects the highest-ranked document from a vector database, crafting responses that aid users in adjusting their trading strategies.
 * **Buy and Sell Signals:** We use the technical indicators provided by the Ta-Lib library to generate buy and sell signals. These signals are formulated based on specific settings of the indicators, aiding in strategic decision-making in various trading scenarios.
 
 ## <mark style="color:green;">User-Centric Agent</mark>
 
 * **Personalized Recommendations:** This agent analyzes the user’s trading history accessed through their cryptocurrency wallet, which includes monitoring their trading behaviors. It identifies the cryptocurrencies the user actively trades and provides them with tailored news and educational content related to those specific currencies to enhance their trading knowledge and strategies.
-* **Real-Time Alerts:** The agent sends real-time alerts to the user based on specific criteria they set, such as price thresholds or technical indicator values. This feature helps users react promptly to market changes and optimize their trading decisions with GPU optimizations for faster processing.
+* **Real-Time Alerts:** The agent sends real-time alerts to the user based on specific criteria they set, such as price thresholds or technical indicator values. This feature helps users react promptly to market changes and optimize their trading decisions with.
 * **Market Sentiment Analysis:** By leveraging sentiment analysis on news data, this agent assesses the general mood towards particular cryptocurrencies. It uses this information to send timely alerts to the user about significant sentiment shifts, aiding them in making well-informed trading decisions based on the prevailing market attitudes.
 
 ## <mark style="color:green;">Hybrid Agent</mark>
