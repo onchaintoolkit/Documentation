@@ -2,7 +2,7 @@
 
 This framework outlines a strategic design for a multi-agent trading system based on extensive research. Onchain Toolkit employs four distinct agents, each playing a specific role in the trading workflow. The initial trio of agents specializes in different trading functions: risk analysis, strategy development, and user interaction. They utilize targeted data to execute their roles—assessing risks in the portfolio, creating strategies based on technical analysis and market trends, and providing users with tailored advice and immediate notifications. The fourth agent, an integrative one, synthesizes information from the first three and incorporates human judgment to make the ultimate trading decisions. The system maximizes performance through GPU integration, capitalizing on the unique strengths of each agent to enhance trading in a unified and strategic manner.
 
-<figure><img src="../.gitbook/assets/gifs.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12-38.jpg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:green;">Risk-Focused Agent</mark>
 

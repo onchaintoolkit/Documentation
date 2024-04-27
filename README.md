@@ -35,9 +35,9 @@ OnChain Toolkit is an innovative platform that serves as a vital resource for an
 * **Active Community:** Join a vibrant community of traders, developers, and enthusiasts. Share insights, get support, and stay updated on the latest features.
 * **Dedicated Support:** Reach out to a dedicated support team for any technical issues or guidance.
 
-### Getting the Most Out of the Onchain Toolkit
+### Getting the Most Out of Onchain Toolkit
 
 * **Regular Updates:** Stay tuned for regular updates, which bring new features, integrations, and improvements based on community feedback.
 * **Feedback and Customization:** Contribute to the platform's evolution by providing feedback and suggestions for new features or enhancements.
 
-The Onchain Tollkit is more than just a tool; it's a dynamic platform designed to adapt and evolve with the DeFi landscape. It empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence. Whether you're a seasoned trader, a curious developer, or an insightful analyst, the Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance.
+Onchain Tollkit is more than just a tool; it's a dynamic platform designed to adapt and evolve with the DeFi landscape. It empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence. Whether you're a seasoned trader, a curious developer, or an insightful analyst, Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance.
