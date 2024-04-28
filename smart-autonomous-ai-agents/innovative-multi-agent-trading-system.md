@@ -6,7 +6,7 @@ This framework outlines a strategic design for a multi-agent trading system base
 
 ## <mark style="color:green;">Risk-Focused Agent</mark>
 
-**Portfolio Analysis:** A cryptocurrency wallet stores both public and private keys for digital assets such as cryptocurrencies. When a user provides their wallet address, it grants access to their public keys and enables the tracking of transactions and token activities. APIs, such as Goplus, scan liquidity pools for various tokens—including Solana, Ethereum, and Binance—revealing transactions related to a user's digital assets."
+**Portfolio Analysis:** A cryptocurrency wallet stores both public and private keys for digital assets such as cryptocurrencies. When a user provides their wallet address, it grants access to their public keys and enables the tracking of transactions and token activities. APIs, such as Goplus, scan liquidity pools for various tokens, revealing transactions related to a user's digital assets.
 
 * **By connecting a user's wallet, the system can access**:
 
