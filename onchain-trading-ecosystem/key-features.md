@@ -49,6 +49,6 @@ Key functionalities include:
 * **User-Centric Agent:** Employs GPU processing to offer customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
 * **Hybrid Agent:** Integrates all agent inputs to form comprehensive trading decisions and manages trade execution on platforms like Tradingview.
 
-\
+**Note**: More features will be constantly added to enhance the user experience and keep up with the rapidly evolving DeFi landscape.\
 
 
