@@ -1,15 +1,14 @@
 # Tokenomics
 
-**Token Utility**
+**Access to Premium Features:** Use tokens to unlock advanced tools and exclusive content within the platform.
 
-1.Access to Premium Features
+**Buy Back and Burns:** Regularly buy back and burn tokens from platform revenue to reduce the circulating supply.
 
-2.Buy back and Burns
+**Referral Program:** Earn tokens by referring new users to the platform.
 
-3.Referral Program&#x20;
+**Governance:** Participate in decision-making processes by voting on key proposals and updates.
 
-4.Governance
+**Incentives:** Earn tokens through various incentive programs, such as liquidity provision.
 
-5.Incentives
+More details coming soon.
 
-More details coming soon
