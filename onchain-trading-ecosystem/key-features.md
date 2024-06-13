@@ -52,3 +52,7 @@ Key functionalities include:
 **Note**: More features will be constantly added to enhance the user experience and keep up with the rapidly evolving DeFi landscape.\
 
 
+10. **Trend Master**
+
+Trend Master provides real-time monitoring and analysis of various crypto narratives using advanced analytics and data from sources like CoinGecko.
+
