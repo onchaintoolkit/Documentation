@@ -43,3 +43,4 @@
 ***
 
 * [Strategic Partners](strategic-partners.md)
+* [Trend Master](trend-master.md)
