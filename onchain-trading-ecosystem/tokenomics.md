@@ -1,3 +1,7 @@
+---
+description: Token Usecase
+---
+
 # Tokenomics
 
-More details to be included in near future.
+More details coming soon
