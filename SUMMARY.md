@@ -19,6 +19,7 @@
 * [Token Scanner](scanners/token-scanner.md)
 * [Approval Allowance Scanner](scanners/approval-allowance-scanner.md)
 * [Address Scanner](scanners/address-scanner.md)
+* [Trend Master](scanners/trend-master.md)
 
 ## Crosschain Swap
 
@@ -43,4 +44,3 @@
 ***
 
 * [Strategic Partners](strategic-partners.md)
-* [Trend Master](trend-master.md)
