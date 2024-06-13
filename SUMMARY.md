@@ -27,7 +27,6 @@
 ## Dex Aggregator
 
 * [Overview](dex-aggregator/overview.md)
-* [Narrative Tracker](dex-aggregator/narrative-tracker.md)
 
 ## Fiat On-Ramp
 
