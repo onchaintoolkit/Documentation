@@ -34,7 +34,7 @@
 
 ### 7. Bubble Maps Integration
 
-* **Bubble Maps:** Bubble Maps are a graphical tool used to visualize and compare relative sizes, values, or categories across different geographic regions. They overlay bubble-like markers, varying in size, over specific locations on a map to represent data points.
+* **Bubble Maps** in the crypto space are graphical tools used to visualize the distribution and flow of cryptocurrencies within a blockchain. The tool helps users understand how tokens are distributed among different holders and can reveal patterns, such as large concentrations of tokens in a few addresses (whale addresses) or the spread of tokens among many smaller addresses.
 
 ### 8. Twitter / X Search
 
@@ -44,15 +44,14 @@
 
 Key functionalities include:
 
-* **Risk-Focused Agent:** Utilizes GPU-enhanced algorithms to assess portfolio risks using user wallet data, with tools for tracking and correlation analysis like Gecko Terminal API and TradingView
+* **Risk-Focused Agent:** Utilizes advanced algorithms to assess portfolio risks using user wallet data, with tools for tracking and correlation analysis like Gecko Terminal API and TradingView.
 * **Strategy-Oriented Agent:** Analyzes charts using data and indicators from Ta-Lib and Quant-Lib, adjusts strategies based on market sentiment, and creates trading signals.
-* **User-Centric Agent:** Employs GPU processing to offer customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
-* **Hybrid Agent:** Integrates all agent inputs to form comprehensive trading decisions and manages trade execution on platforms like Tradingview.
-
-**Note**: More features will be constantly added to enhance the user experience and keep up with the rapidly evolving DeFi landscape.\
-
+* **User-Centric Agent:** Offers customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
+* **Hybrid Agent:** Combines inputs from risk, strategy, and user-centric agents to make and execute informed trading decisions based on portfolio risks, user behavior, and market sentiment, with support from human intelligence.
 
 10. **Trend Master**
 
 Trend Master provides real-time monitoring and analysis of various crypto narratives using advanced analytics and data from sources like CoinGecko.
+
+**Note**: More features will be constantly added to enhance the user experience and keep up with the rapidly evolving DeFi landscape.
 
