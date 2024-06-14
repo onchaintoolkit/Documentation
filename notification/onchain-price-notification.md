@@ -2,7 +2,7 @@
 
 ## <mark style="color:green;">Introduction</mark>
 
-The OnChain Toolkit now offers an advanced Price Notification feature that allows users to receive browser pop-up notifications based on specific token price increase percentages. This feature enhances your trading experience and keeps you updated on market movements in real-time. Notifications will only pop up if your browser has the OnChain Toolkit open. Users can effortlessly set up and manage these notifications for tokens, enabling you to stay informed about price changes as they happen.
+OnChain Toolkit now offers an advanced Price Notification feature that allows users to receive browser pop-up notifications based on specific token price increase percentages. This feature enhances your trading experience and keeps you updated on market movements in real-time. Notifications will only pop up if your browser has OnChain Toolkit open. Users can effortlessly set up and manage these notifications for tokens, enabling you to stay informed about price changes as they happen.
 
 ### <mark style="color:green;">1. Getting Started</mark>
 
@@ -22,7 +22,7 @@ Once activated, you will receive browser pop-up notifications when the token's p
 
 Effectively manage your Price Notifications with these options:
 
-1. Notifications will appear in your browser if the OnChain Toolkit is open, and a token in your watchlist experiences a price increase meeting the specified criteria.
+1. Notifications will appear in your browser if OnChain Toolkit is open, and a token in your watchlist experiences a price increase meeting the specified criteria.
 2. Notifications will include relevant information such as the token name, current price, and percentage increase.
 3. Clicking on a notification will redirect you to the token charting pair page for detailed information.
 
@@ -36,4 +36,4 @@ If you no longer wish to receive Price Notifications for a particular token:
 
 You can easily manage and customize your Price Notifications to suit your trading preferences.
 
-Congratulations! You are now proficient in utilizing the OnChain Toolkit Price Notification feature. Stay updated on token price increases and make informed trading decisions while enjoying a seamless browsing experience.
+Congratulations! You are now proficient in utilizing OnChain Toolkit's Price Notification feature. Stay updated on token price increases and make informed trading decisions while enjoying a seamless browsing experience.
