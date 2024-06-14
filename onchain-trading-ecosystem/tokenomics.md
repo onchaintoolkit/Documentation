@@ -1,5 +1,7 @@
 # Tokenomics
 
+**Token Utility:**
+
 **Access to Premium Features:** Use tokens to unlock advanced tools and exclusive content within the platform.
 
 **Buy Back and Burns:** Regularly buy back and burn tokens from platform revenue to reduce the circulating supply.
