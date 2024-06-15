@@ -53,16 +53,6 @@ Upon completion of the scan, the Onchain Toolkit Contract Scanner provides:
 
 ***
 
-## <mark style="color:green;">Disclaimer and Best Practices</mark>
-
-While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the automated analysis should not be deemed infallible. Users are strongly recommended to:
-
-* **Professional Manual Audit**: Engage with professional auditors to conduct a thorough manual review of the contract.
-
-
-
-***
-
 ## <mark style="color:green;">Frequently Asked Questions</mark>
 
 ### Why doesn't it work at times?
@@ -90,14 +80,6 @@ While the Onchain Toolkit Smart Contract scanner delivers valuable insights, the
 ### Will it work with non-flattened contracts?
 
 **Yes:** The Onchain Toolkit Scanner is capable of working with non-flattened contracts. It automatically flattens the contract and proceeds with the scan. This means it consolidates all imported files and contracts into a single file for analysis.
-
-### What if I encounter a different error?
-
-**Report the Issue:** If you encounter an error not listed in this FAQ, please report it to the Revoluzion support team for further assistance [here](https://t.me/RevoluzionEcosystem). Providing details such as the error message, contract address, and network can help diagnose and resolve the issue more quickly.
-
-### Is the scanner 100% accurate?
-
-**No automated scanner is infallible:** While Revoluzion & slither provides a robust analysis, it's not a substitute for a professional manual audit. For best security practices, especially for high-stakes contracts, consider a comprehensive audit from a reputable security firm.
 
 ### How often is the scanner updated?
 
