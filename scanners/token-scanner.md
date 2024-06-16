@@ -43,7 +43,6 @@ The Onchain Toolkit Token Scanner operates through an API endpoint that accepts 
 ## <mark style="color:green;">Best Practices and Disclaimer</mark>
 
 * **Supplementary Research**: The scanner's output should complement your research and due diligence. Always look into the project's team, history, and community discussions.
-* **Professional Consultation**: For significant investments or development, consult with a professional auditor or legal advisor to interpret the findings appropriately.
 * **Continual Monitoring**: Token attributes and risks can change over time. Regularly re-scan tokens and stay updated on project developments.
 
 ***
