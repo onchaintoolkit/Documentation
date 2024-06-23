@@ -7,7 +7,7 @@
 * [Usage Guide](onchain-trading-platform/usage-guide.md)
 * [Project Roadmap](onchain-trading-platform/project-roadmap.md)
 * [Tokenomics](onchain-trading-platform/tokenomics.md)
-* [Key Features](onchain-trading-platform/key-features.md)
+* [Key Features Overview](onchain-trading-platform/key-features-overview.md)
 
 ## Smart Autonomous AI Agents
 
