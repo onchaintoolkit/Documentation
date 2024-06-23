@@ -35,11 +35,11 @@
 
 ## Watchlist
 
-* [Token Watchlist](watchlist/token-watchlist.md)
+* [Overview](watchlist/overview.md)
 
 ## Notification
 
-* [OnChain Price Notification](notification/onchain-price-notification.md)
+* [Overview](notification/overview.md)
 
 ***
 
