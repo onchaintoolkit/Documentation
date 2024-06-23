@@ -1,13 +1,14 @@
 # Table of contents
 
-## OnChain Trading Ecosystem
+## OnChain Trading Platform
 
 * [OnChain Toolkit Overview](README.md)
-* [Getting Started](onchain-trading-ecosystem/getting-started.md)
-* [Usage Guide](onchain-trading-ecosystem/usage-guide.md)
-* [Key Features](onchain-trading-ecosystem/key-features.md)
-* [Tokenomics](onchain-trading-ecosystem/tokenomics.md)
-* [Project Roadmap](onchain-trading-ecosystem/project-roadmap.md)
+* [Getting Started](onchain-trading-platform/getting-started.md)
+* [Usage Guide](onchain-trading-platform/usage-guide.md)
+* [Key Features](onchain-trading-platform/key-features.md)
+* [Tokenomics](onchain-trading-platform/tokenomics.md)
+* [Project Roadmap](onchain-trading-platform/project-roadmap.md)
+* [Key Features](onchain-trading-platform/key-features-1.md)
 
 ## Smart Autonomous AI Agents
 
