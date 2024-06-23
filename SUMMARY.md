@@ -5,10 +5,9 @@
 * [OnChain Toolkit Overview](README.md)
 * [Getting Started](onchain-trading-platform/getting-started.md)
 * [Usage Guide](onchain-trading-platform/usage-guide.md)
-* [Key Features](onchain-trading-platform/key-features.md)
 * [Tokenomics](onchain-trading-platform/tokenomics.md)
 * [Project Roadmap](onchain-trading-platform/project-roadmap.md)
-* [Key Features](onchain-trading-platform/key-features-1.md)
+* [Key Features](onchain-trading-platform/key-features.md)
 
 ## Smart Autonomous AI Agents
 
