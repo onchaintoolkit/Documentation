@@ -9,6 +9,10 @@
 * [Tokenomics](onchain-trading-platform/tokenomics.md)
 * [Key Features Overview](onchain-trading-platform/key-features-overview.md)
 
+## GUIDES
+
+* [Dashboard](guides/dashboard.md)
+
 ## Smart Autonomous AI Agents
 
 * [Innovative Multi-Agent Trading System](smart-autonomous-ai-agents/innovative-multi-agent-trading-system.md)
