@@ -21,6 +21,10 @@ layout:
 
 The OnChain Toolkit features a powerful and user-friendly Watchlist system, designed to enhance the trading experience by allowing users to efficiently track and monitor their favorite tokens. This tool provides traders with the ability to compile a personalized list of tokens, which can be referenced quickly for real-time market data, ensuring that they stay informed and ready to make critical trading decisions.
 
+{% hint style="info" %}
+The Watchlist data is stored locally in the user's browser storage. Please be aware that if the browser's cache or data is cleared, the Watchlist will be reset and all stored tokens in the watchlist will be removed.
+{% endhint %}
+
 ***
 
 ### **Easy Token Addition and Management**
