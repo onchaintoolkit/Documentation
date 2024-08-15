@@ -13,6 +13,7 @@
 
 * [🟢 Dashboard](guides/dashboard.md)
 * [🟢 Trading Terminal](guides/trading-terminal.md)
+* [🟢 Watchlist](guides/watchlist.md)
 
 ## Smart Autonomous AI Agents
 
