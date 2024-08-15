@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Dashboard
+# 🟢 Dashboard
 
 ## Complete Dashboard Guide and Understanding the Dashboard
 
@@ -30,7 +30,7 @@ The Dashboard serves as the central hub for monitoring market dynamics and acces
 
 ### Hot Pairs Carousel
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic feature that showcases the most active and significant trading pairs in the market. It provides a quick snapshot of pairs that are experiencing high trading volumes, price movements, or increased market interest.
 
@@ -51,7 +51,7 @@ The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic featur
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +59,7 @@ The **Top 10 Trending Tokens** section lists the tokens that are garnering signi
 
 **Features:**
 
-* **Ranked List:** Tokens are ranked from 1 to 10 based on their trending status.
+* **Ranked List:** Tokens are ranked from 1 to 10 based on their trending status. Users can click on the left and right arrow to navigate the ranks.
 * **Metrics Displayed:** Each token listing includes its current price in real time.
 * **Quick Access:** Clicking on a token redirects you to its detailed analytics page.
 
@@ -72,13 +72,13 @@ The **Top 10 Trending Tokens** section lists the tokens that are garnering signi
 
 ### Top 10 High Volume Tokens
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 High Volume Tokens** section highlights the tokens with the highest trading volumes over a specific period, typically 24 hours. High trading volume often indicates strong market interest and liquidity.
 
 **Features:**
 
-* **Ranked List:** Tokens are ordered from highest to lowest based on trading volume.
+* **Ranked List:** Tokens are ordered from highest to lowest based on trading volume. Users can click on the left and right arrow to navigate the ranks.
 * **Essential Metrics:** Each entry displays the token's current price in real time.
 * **Direct Links:** Clicking on a token provides more detailed information and trading options.
 
@@ -91,13 +91,13 @@ The **Top 10 High Volume Tokens** section highlights the tokens with the highest
 
 ### Top 10 Latest Pools Created
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 Latest Pools Created** section informs users about the most recent liquidity pools added to  all decentralized exchange in the network. This is particularly useful for users interested in liquidity provision and new market opportunities.
 
 **Features:**
 
-* **Chronological Listing:** Pools are listed starting with the most recently created.
+* **Chronological Listing:** Pools are listed starting with the most recently created. Users can click on the left and right arrow to navigate the ranks.
 * **Pool Details:** Each listing includes the token pairs and its current price in real time.
 * **Navigation:** Clicking on a pool takes you to its specific page, offering more insights and interaction options.
 
