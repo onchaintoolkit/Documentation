@@ -35,7 +35,7 @@ The Trading Terminal is a comprehensive interface designed to provide traders wi
 
 ### Swap Tokens Effortlessly!
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Users can effortlessly buy or sell tokens directly from the terminal page. The output token is automatically selected based on the specific token terminal page the user is on, enabling seamless and direct access to trading.
 
@@ -43,7 +43,7 @@ Users can effortlessly buy or sell tokens directly from the terminal page. The o
 
 ### Watchlist, Copy and Explore!
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Users have the option to conveniently add tokens to their watchlist by click the ⭐ icon, allowing for easy future access under the watchlist tab. In addition, users can access essential token details, including the token address, native pair address, and liquidity pool pair address. Each of these details can be easily clicked to open in an external explorer for further information. Additionally, users can quickly copy the token address or native pair address by simply clicking the copy icon, making it easier to share or use the information as needed.
 
@@ -76,7 +76,7 @@ Users have the option to conveniently add tokens to their watchlist by click the
 
 **5. Auto Audit Scanner by GoPlus**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Security Scanner**: The terminal includes an auto audit scanner powered by GoPlus, providing real-time security assessments of the tokens and contracts involved in the trades. This tool helps in identifying potential risks and vulnerabilities, offering traders an additional layer of protection.
 

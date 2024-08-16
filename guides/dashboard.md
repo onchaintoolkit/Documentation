@@ -30,7 +30,7 @@ The Dashboard serves as the central hub for monitoring market dynamics and acces
 
 ### Hot Pairs Carousel
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic feature that showcases the most active and significant trading pairs in the market. It provides a quick snapshot of pairs that are experiencing high trading volumes, price movements, or increased market interest.
 
@@ -51,7 +51,7 @@ The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic featur
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ The **Top 10 Trending Tokens** section lists the tokens that are garnering signi
 
 ### Top 10 High Volume Tokens
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 High Volume Tokens** section highlights the tokens with the highest trading volumes over a specific period, typically 24 hours. High trading volume often indicates strong market interest and liquidity.
 
@@ -91,7 +91,7 @@ The **Top 10 High Volume Tokens** section highlights the tokens with the highest
 
 ### Top 10 Latest Pools Created
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 Latest Pools Created** section informs users about the most recent liquidity pools added to  all decentralized exchange in the network. This is particularly useful for users interested in liquidity provision and new market opportunities.
 
