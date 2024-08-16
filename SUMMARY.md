@@ -15,6 +15,7 @@
 * [🟢 Trading Terminal](guides/trading-terminal.md)
 * [🟢 Watchlist](guides/watchlist.md)
 * [🟢 AI Scanner](guides/ai-scanner.md)
+* [🟢 DEX Aggregator Swap](guides/dex-aggregator-swap.md)
 
 ## Smart Autonomous AI Agents
 
