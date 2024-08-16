@@ -66,7 +66,7 @@ This tab is dedicated to scanning smart contracts for vulnerabilities and optimi
 
 ***
 
-**3. Address Tab**
+### **Address Tab**
 
 The Address tab is used to scan any wallet address for potential malicious activities.
 
@@ -94,7 +94,7 @@ The Address tab is used to scan any wallet address for potential malicious activ
 
 ***
 
-**Allowance Tab**
+### **Allowance Tab**
 
 The Allowance tab allows users to check and manage token allowances for their wallet addresses.
 
