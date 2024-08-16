@@ -44,7 +44,7 @@ This tab is dedicated to scanning smart contracts for vulnerabilities and optimi
 
 **Select Network:**
 
-
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * Select the appropriate network where the contract is deployed.
 
@@ -52,7 +52,7 @@ This tab is dedicated to scanning smart contracts for vulnerabilities and optimi
 
 **Input Contract Address:**
 
-
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 * Enter the smart contract address in the provided field.
 
@@ -60,7 +60,7 @@ This tab is dedicated to scanning smart contracts for vulnerabilities and optimi
 
 **Scan for Vulnerabilities:**
 
-
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * Click the "Scan" button to analyze the contract. The scanner will assess the code for vulnerabilities and optimization issues, providing a detailed report.
 
@@ -72,7 +72,7 @@ The Address tab is used to scan any wallet address for potential malicious activ
 
 **Select Network:**
 
-
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 * Choose the network on which the wallet address operates.
 
@@ -80,7 +80,7 @@ The Address tab is used to scan any wallet address for potential malicious activ
 
 **Input Wallet Address:**
 
-
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 * Paste the wallet address you want to scan into the input field.
 
@@ -88,10 +88,9 @@ The Address tab is used to scan any wallet address for potential malicious activ
 
 **Scan for Malicious Activity:**
 
-
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 * Click the "Scan" button to detect any malicious conduct associated with the wallet address.
-* If there is no allowance available for the wallet address, an error sonner will pop up as below : ![](<../.gitbook/assets/image (5).png>)
 
 ***
 
@@ -101,7 +100,7 @@ The Allowance tab allows users to check and manage token allowances for their wa
 
 **Connect Wallet:**
 
-
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 * Before using this tab, click the "Connect Wallet" button to connect your wallet to the scanner.
 
@@ -109,7 +108,7 @@ The Allowance tab allows users to check and manage token allowances for their wa
 
 **Select Network:**
 
-
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 * After connecting your wallet, select the network on which your wallet operates.
 
@@ -117,7 +116,7 @@ The Allowance tab allows users to check and manage token allowances for their wa
 
 **Input Wallet Address:**
 
-
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 * Enter your wallet address in the provided field.
 
@@ -125,16 +124,16 @@ The Allowance tab allows users to check and manage token allowances for their wa
 
 **Scan Allowances:**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * Click "Scan" to view all token allowances granted by your wallet. The scanner will display a list of allowances, showing the tokens, their corresponding smart contracts, and the amount allowed.
 *   In the event the scan button do not appear, it means that you have yet to connect your wallet. Click on the connect wallet button to connect your wallet first.
 
     <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 * Even after connecting your wallet, you can still scan for allowances associated with any other wallet address. However, please note that you won't have the ability to revoke those allowances for addresses other than your own.
+*   If there is no allowance available for the wallet address, an error event sonner will pop up as below :&#x20;
 
-
-
+    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 * **Revoke Allowances:**
   *   If you wish to revoke any allowance, simply click the "Revoke" button next to the corresponding allowance. This will remove the permission granted to the smart contract, preventing it from accessing your tokens.
 
