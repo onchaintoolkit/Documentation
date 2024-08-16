@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/AI Scanner cover.png
+coverY: 54.09924109748978
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🟢 AI Scanner
 
 The AI Scanner provided by GoPlus and Revoluzion is a comprehensive tool designed to help users scan and analyze token addresses, normal wallet addresses, smart contracts, and allowances in user wallets. Below is a detailed guide on how to utilize each tab within the AI Scanner.
