@@ -21,29 +21,17 @@
 
 * [Innovative Multi-Agent Trading System](smart-autonomous-ai-agents/innovative-multi-agent-trading-system.md)
 
-## Scanners
+## Trend Master
 
-* [AI Smart Contract Scanner](scanners/smart-contract-scanner.md)
-* [Token Scanner](scanners/token-scanner.md)
-* [Approval Allowance Scanner](scanners/approval-allowance-scanner.md)
-* [Address Scanner](scanners/address-scanner.md)
-* [Trend Master](scanners/trend-master.md)
+* [Overview](trend-master/overview.md)
 
 ## Crosschain Swap
 
 * [Overview](crosschain-swap/overview.md)
 
-## Dex Aggregator
-
-* [Overview](dex-aggregator/overview.md)
-
 ## Fiat On-Ramp
 
 * [Overview](fiat-on-ramp/overview.md)
-
-## Watchlist
-
-* [Overview](watchlist/overview.md)
 
 ## Notification
 
