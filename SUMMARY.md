@@ -34,10 +34,6 @@
 
 * [Overview](fiat-on-ramp/overview.md)
 
-## Notification
-
-* [Overview](notification/overview.md)
-
 ***
 
 * [Strategic Partners](strategic-partners.md)
