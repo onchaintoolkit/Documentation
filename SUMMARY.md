@@ -30,10 +30,6 @@
 
 * [Overview](crosschain-swap/overview.md)
 
-## Fiat On-Ramp
-
-* [Overview](fiat-on-ramp/overview.md)
-
 ***
 
 * [Strategic Partners](strategic-partners.md)
