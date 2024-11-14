@@ -16,6 +16,7 @@
 * [🟢 Watchlist](guides/watchlist.md)
 * [🟢 AI Scanner](guides/ai-scanner.md)
 * [🟢 DEX Aggregator Swap](guides/dex-aggregator-swap.md)
+* [🟢 Fiat On-Ramp](guides/fiat-on-ramp.md)
 
 ## Smart Autonomous AI Agents
 
