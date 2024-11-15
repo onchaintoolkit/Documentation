@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/watchlist.png
+cover: ../../.gitbook/assets/watchlist.png
 coverY: 48.79844458846404
 layout:
   cover:
@@ -31,13 +31,13 @@ The Watchlist data is stored locally in the user's browser storage. Please be aw
 
 Users can easily add tokens to their Watchlist with just a few clicks. This allows for quick access to frequently monitored tokens without needing to search for them repeatedly. The interface is intuitive, making it simple to manage and update the Watchlist as market conditions evolve.
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### **Real-Time Market Data**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once tokens are added to the Watchlist, users can view a range of important real-time metrics:
 
@@ -52,7 +52,7 @@ These metrics are presented in an organized manner, enabling users to make well-
 
 ### **Sorting and Filtering Options**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To further enhance usability, the Watchlist includes sorting and filtering functionalities. Users can sort tokens by price, percentage changes, or liquidity pool value, allowing them to prioritize the information most relevant to their trading strategy. By clicking on the sorting arrows, users can reorder their list according to these metrics, making it easier to spot opportunities or manage risks.
 
@@ -61,7 +61,7 @@ The Watchlist is designed to be flexible to accommodate different user preferenc
 
 * **Token Limit**: Users can add up to 100 tokens to their Watchlist, ensuring they can monitor a broad range of assets.
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Adjustable Row Display**: The number of tokens displayed per page can be customized, with options to display 10, 20, 30, 40, or 50 tokens per page. This feature allows users to tailor the interface to their viewing comfort and the scale of their Watchlist.
 

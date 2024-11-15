@@ -1,6 +1,6 @@
 ---
 description: Full complete dashboard guide and how to understand the dashboard.
-cover: ../.gitbook/assets/gitbook cover.png
+cover: ../../.gitbook/assets/gitbook cover.png
 coverY: 0
 layout:
   cover:
@@ -30,7 +30,7 @@ The Dashboard serves as the central hub for monitoring market dynamics and acces
 
 ### Hot Pairs Carousel
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic feature that showcases the most active and significant trading pairs in the market. It provides a quick snapshot of pairs that are experiencing high trading volumes, price movements, or increased market interest.
 
@@ -49,7 +49,7 @@ The <mark style="color:green;">**Hot Pairs Carousel**</mark> is a dynamic featur
 
 ### Search For Pool
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 The **Search for Pool** function allows users to quickly locate specific trading pools based on the network selected. Whether you're looking for a particular token pair or a specific contract address, this feature streamlines the process of finding the pools you're interested in.
 
@@ -62,7 +62,7 @@ The **Search for Pool** function allows users to quickly locate specific trading
 
 #### Locations:
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 * **Sidebar Search:** A convenient search bar located on the sidebar, allowing users to search for pools without leaving the current page.
 * **Top Right Search:** Another search bar is located at the top right of the dApp, right next to the wallet connect button, offering quick access to the search function no matter where you are on the platform.
@@ -78,7 +78,7 @@ The **Search for Pool** function allows users to quickly locate specific trading
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -99,7 +99,7 @@ The **Top 10 Trending Tokens** section lists the tokens that are garnering signi
 
 ### Top 10 High Volume Tokens
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 High Volume Tokens** section highlights the tokens with the highest trading volumes over a specific period, typically 24 hours. High trading volume often indicates strong market interest and liquidity.
 
@@ -118,7 +118,7 @@ The **Top 10 High Volume Tokens** section highlights the tokens with the highest
 
 ### Top 10 Latest Pools Created
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Top 10 Latest Pools Created** section informs users about the most recent liquidity pools added to  all decentralized exchange in the network. This is particularly useful for users interested in liquidity provision and new market opportunities.
 
@@ -137,7 +137,7 @@ The **Top 10 Latest Pools Created** section informs users about the most recent 
 
 ### Top 100 Hot Pairs
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Easily change display of tokens/rows per page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Easily change display of tokens/rows per page</p></figcaption></figure>
 
 The Top 100 Hot Pairs section provides a comprehensive overview of the most active trading pairs on the platform. This list is curated based on factors such as trading volume, liquidity, and recent trading activity.
 
