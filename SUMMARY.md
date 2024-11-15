@@ -5,6 +5,7 @@
 * [OnChain Toolkit Overview](README.md)
 * [Getting Started](onchain-trading-platform/getting-started.md)
 * [Usage Guide](onchain-trading-platform/usage-guide.md)
+* [Project Roadmap](onchain-trading-platform/project-roadmap.md)
 * [Tokenomics](onchain-trading-platform/tokenomics.md)
 * [Key Features Overview](onchain-trading-platform/key-features-overview.md)
 
