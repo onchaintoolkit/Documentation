@@ -21,10 +21,6 @@
 
 * [Innovative Multi-Agent Trading System](smart-autonomous-ai-agents/innovative-multi-agent-trading-system.md)
 
-***
-
-* [Page](page.md)
-
 ## Trend Master
 
 * [Overview](trend-master/overview.md)
@@ -32,9 +28,7 @@
 ## Crosschain Swap
 
 * [Overview](crosschain-swap/overview.md)
-* [Page 2](crosschain-swap/page-2.md)
 
 ***
 
 * [Strategic Partners](strategic-partners.md)
-* [Page 1](page-1.md)
