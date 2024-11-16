@@ -1,6 +1,6 @@
 # Project Roadmap
 
-#### <mark style="color:green;">**Key Milestones Achieved – Phase 1**</mark>**:**
+#### <mark style="color:green;">**Key Milestones Achieved – Phase 1:**</mark>
 
 **DEX Aggregator**: Seamless trading experience across decentralized exchanges, improving accessibility and liquidity.
 
