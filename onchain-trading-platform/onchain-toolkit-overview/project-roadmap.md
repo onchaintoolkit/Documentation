@@ -1,6 +1,6 @@
 # Project Roadmap
 
-#### **Key Milestones Achieved – Phase 1:**
+#### <mark style="color:green;">**Key Milestones Achieved – Phase 1**</mark>**:**
 
 **DEX Aggregator**: Seamless trading experience across decentralized exchanges, improving accessibility and liquidity.
 
@@ -21,7 +21,7 @@
 
 ***
 
-**Coming Up – Phase 2:**
+<mark style="color:green;">**Coming Up – Phase 2:**</mark>
 
 **Fundraising**: Secure strategic partnerships and funding to fuel development.
 
@@ -35,7 +35,7 @@
 
 ***
 
-**Coming Up – Phase 3:**
+<mark style="color:green;">**Coming Up – Phase 3:**</mark>
 
 **AI Agents Back End**:
 
@@ -50,7 +50,7 @@
 
 ***
 
-**Coming Up – Phase 4:**
+<mark style="color:green;">**Coming Up – Phase 4:**</mark>
 
 **Mobile App Launch**: Seamless trading and portfolio management on iOS and Android devices.
 
