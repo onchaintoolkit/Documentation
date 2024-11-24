@@ -18,5 +18,5 @@
   * [🟢 AI Scanner](onchain-trading-platform/guides/ai-scanner.md)
   * [🟢 DEX Aggregator Swap](onchain-trading-platform/guides/dex-aggregator-swap.md)
   * [🟢 Fiat On-Ramp](onchain-trading-platform/guides/fiat-on-ramp.md)
-* [Crosschain Swaps](onchain-trading-platform/crosschain-swaps.md)
+* [🟢 Croschain Swaps](onchain-trading-platform/croschain-swaps.md)
 * [Strategic Partners](onchain-trading-platform/strategic-partners.md)
