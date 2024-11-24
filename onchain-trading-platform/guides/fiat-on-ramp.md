@@ -8,7 +8,7 @@ One of the key advantages of this function is its ability to automatically detec
 
 To start utilizing it, first ensure that you have connected your wallet to the dapp. Once done, click on the sidebar or open the sidebar menu (mobile) and click on Fiat On-Ramp.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-11-24 at 11.27.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/resized.png" alt=""><figcaption></figcaption></figure>
 
 Once on the page, follow the steps below :
 
