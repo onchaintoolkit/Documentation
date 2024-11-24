@@ -1,14 +1,14 @@
 # 🟢 Fiat On-Ramp
 
-**OnRamper** is a platform that facilitates fiat-to-crypto transactions, enabling users to purchase cryptocurrency directly using traditional payment methods like credit/debit cards, bank transfers, and local payment methods. It integrates multiple fiat on-ramp providers into a single widget, allowing seamless fiat-to-crypto conversion for a wide range of cryptocurrencies across different regions.
+The **Fiat On-Ramp** feature of **Onchain Toolkit**, powered by **Onramper**, simplifies fiat-to-crypto transactions, enabling users to purchase cryptocurrencies directly using traditional payment methods like credit/debit cards, bank transfers, and local payment methods. By integrating multiple fiat on-ramp providers into a single widget, this feature ensures a seamless and efficient fiat-to-crypto conversion process for a wide range of cryptocurrencies across different regions.
 
-One of the key advantages of Onramper is its ability to automatically detect the user's local currency, seamlessly selecting the most relevant payment options based on their location and currency preferences. This smart feature ensures that users are presented with suitable payment channels, making the crypto purchasing process more intuitive and tailored to individual needs.
+One of the key advantages of this function is its ability to automatically detect the user's local currency, seamlessly selecting the most relevant payment options based on their location and currency preferences. This intelligent capability ensures that users are presented with suitable payment channels, making the crypto purchasing process more intuitive and tailored to their individual needs.
 
 ***
 
-To start utilizing OnRamper, first ensure that you have connected your wallet to the dapp. Once done, click on the sidebar or open the sidebar menu (mobile) and click on Fiat On-Ramp.
+To start utilizing it, first ensure that you have connected your wallet to the dapp. Once done, click on the sidebar or open the sidebar menu (mobile) and click on Fiat On-Ramp.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-11-24 at 11.27.35.png" alt=""><figcaption></figcaption></figure>
 
 Once on the page, follow the steps below :
 
