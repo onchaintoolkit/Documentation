@@ -13,6 +13,7 @@
   * [🟢 Watchlist](onchain-trading-platform/guides/watchlist.md)
   * [🟢 AI Scanner](onchain-trading-platform/guides/ai-scanner.md)
   * [🟢 DEX Aggregator Swap](onchain-trading-platform/guides/dex-aggregator-swap.md)
+  * [🟢 Crosschain Swap](onchain-trading-platform/guides/crosschain-swap.md)
   * [🟢 Fiat On-Ramp](onchain-trading-platform/guides/fiat-on-ramp.md)
 * [🟪 Innovative Multi-Agent Trading System](onchain-trading-platform/innovative-multi-agent-trading-system.md)
 * [🟪 Trend Master](onchain-trading-platform/trend-master.md)
