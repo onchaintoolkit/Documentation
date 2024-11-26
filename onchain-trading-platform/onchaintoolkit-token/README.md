@@ -1,4 +1,4 @@
-# Tokenomics
+# 🟪 OnChainToolKit Token
 
 **Token Utility:**
 

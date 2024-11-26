@@ -1,4 +1,4 @@
-# Trend Master
+# 🟪 Trend Master
 
 In the dynamic and rapidly evolving cryptocurrency market, staying ahead of trends is crucial for successful trading. **Trend Master**, integrated within Onchain Toolkit, provides a sophisticated solution for monitoring and analyzing the strength of various crypto narratives. By leveraging real-time data and advanced analytics, Trend Master empowers traders with actionable insights into thematic shifts, helping them make informed decisions and optimize their trading strategies.
 

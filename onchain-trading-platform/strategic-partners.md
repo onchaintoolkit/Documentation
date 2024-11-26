@@ -1,4 +1,4 @@
-# Strategic Partners
+# 🟪 Strategic Partners
 
 ## OnChain Toolkit Strategic Partners
 
