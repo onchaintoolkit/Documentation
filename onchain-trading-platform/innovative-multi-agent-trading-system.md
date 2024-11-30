@@ -1,4 +1,4 @@
-# 🟪 Innovative Multi-Agent Trading System
+# 🟦 Innovative Multi-Agent Trading System
 
 **Innovative Multi-Agent Trading System**
 
