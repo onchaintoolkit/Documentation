@@ -15,7 +15,7 @@
   * [🟢 DEX Aggregator Swap](onchain-trading-platform/guides/dex-aggregator-swap.md)
   * [🟢 Crosschain Swap](onchain-trading-platform/guides/crosschain-swap.md)
   * [🟢 Fiat On-Ramp](onchain-trading-platform/guides/fiat-on-ramp.md)
-* [🟦 Innovative Multi-Agent Trading System](onchain-trading-platform/innovative-multi-agent-trading-system.md)
+* [🟦 Smart Multi-Agent System for Advanced Decisions](onchain-trading-platform/smart-multi-agent-system-for-advanced-decisions.md)
 * [🟦 Trading Agent](onchain-trading-platform/trading-agent.md)
 * [🟦 Trend Master](onchain-trading-platform/trend-master.md)
 * [🟦 Project Roadmap](onchain-trading-platform/project-roadmap.md)
