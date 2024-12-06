@@ -1,2 +1,2 @@
-# Trading Agent
+# 🟦 Trading Agent
 

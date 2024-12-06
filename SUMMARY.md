@@ -16,7 +16,7 @@
   * [🟢 Crosschain Swap](onchain-trading-platform/guides/crosschain-swap.md)
   * [🟢 Fiat On-Ramp](onchain-trading-platform/guides/fiat-on-ramp.md)
 * [🟦 Innovative Multi-Agent Trading System](onchain-trading-platform/innovative-multi-agent-trading-system.md)
-* [Trading Agent](onchain-trading-platform/trading-agent.md)
+* [🟦 Trading Agent](onchain-trading-platform/trading-agent.md)
 * [🟦 Trend Master](onchain-trading-platform/trend-master.md)
 * [🟦 Project Roadmap](onchain-trading-platform/project-roadmap.md)
 * [🟦 OnChainToolKit Token](onchain-trading-platform/onchaintoolkit-token/README.md)
