@@ -2,7 +2,7 @@
 
 ## OnChain Trading Platform
 
-* [🛠️ OnChain Toolkit Overview](README.md)
+* [🔗 OnChain Toolkit Overview](README.md)
   * [Getting Started](onchain-trading-platform/onchain-toolkit-overview/getting-started.md)
   * [Usage Guide](onchain-trading-platform/onchain-toolkit-overview/usage-guide.md)
   * [Key Features Overview](onchain-trading-platform/onchain-toolkit-overview/key-features-overview.md)
