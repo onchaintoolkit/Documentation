@@ -2,7 +2,7 @@
 
 ## OnChain Trading Platform
 
-* [🟦 OnChain Toolkit Overview](README.md)
+* [🛠️ OnChain Toolkit Overview](README.md)
   * [Getting Started](onchain-trading-platform/onchain-toolkit-overview/getting-started.md)
   * [Usage Guide](onchain-trading-platform/onchain-toolkit-overview/usage-guide.md)
   * [Key Features Overview](onchain-trading-platform/onchain-toolkit-overview/key-features-overview.md)
@@ -15,11 +15,11 @@
   * [🟢 DEX Aggregator Swap](onchain-trading-platform/guides/dex-aggregator-swap.md)
   * [🟢 Crosschain Swap](onchain-trading-platform/guides/crosschain-swap.md)
   * [🟢 Fiat On-Ramp](onchain-trading-platform/guides/fiat-on-ramp.md)
-* [🟦 Smart Multi Agent System](onchain-trading-platform/smart-multi-agent-system.md)
-* [🟦 Autonomous Trading Agent](onchain-trading-platform/autonomous-trading-agent.md)
-* [🟦 Trend Master](onchain-trading-platform/trend-master.md)
+* [🤖 Smart Multi Agent System](onchain-trading-platform/smart-multi-agent-system.md)
+* [⚙️ Autonomous Trading Agent](onchain-trading-platform/autonomous-trading-agent.md)
+* [📊 Trend Master](onchain-trading-platform/trend-master.md)
 * [🗺️ Project Roadmap](onchain-trading-platform/project-roadmap.md)
-* [🟦 OnChainToolKit Token](onchain-trading-platform/onchaintoolkit-token/README.md)
+* [🔒OnChainToolKit Token](onchain-trading-platform/onchaintoolkit-token/README.md)
   * [Tokenomics](onchain-trading-platform/onchaintoolkit-token/tokenomics.md)
   * [Utility](onchain-trading-platform/onchaintoolkit-token/utility.md)
-* [🟦 Strategic Partners](onchain-trading-platform/strategic-partners.md)
+* [🤝 Strategic Partners](onchain-trading-platform/strategic-partners.md)

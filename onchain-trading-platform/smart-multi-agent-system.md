@@ -1,4 +1,4 @@
-# 🟦 Smart Multi Agent System for Advanced Decisions
+# 🤖 Smart Multi Agent System
 
 I**nnovative Multi Agent Trading System**
 

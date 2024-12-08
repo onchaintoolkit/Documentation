@@ -1,4 +1,4 @@
-# 🟦 Trading Agent
+# ⚙️ Autonomous Trading Agent
 
 ### I**ntroduction**
 

@@ -1,4 +1,4 @@
-# 🟦 OnChainToolKit Token
+# 🔒OnChainToolKit Token
 
 **Token Utility:**
 
