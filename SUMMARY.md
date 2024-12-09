@@ -6,7 +6,6 @@
   * [Getting Started](onchain-trading-platform/onchain-toolkit-overview/getting-started.md)
   * [Usage Guide](onchain-trading-platform/onchain-toolkit-overview/usage-guide.md)
   * [Key Features Overview](onchain-trading-platform/onchain-toolkit-overview/key-features-overview.md)
-  * [Crosschain Swaps](onchain-trading-platform/onchain-toolkit-overview/crosschain-swaps.md)
 * [📘 Guides](onchain-trading-platform/guides/README.md)
   * [🟢 Dashboard](onchain-trading-platform/guides/dashboard.md)
   * [🟢 Trading Terminal](onchain-trading-platform/guides/trading-terminal.md)
