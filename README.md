@@ -1,6 +1,6 @@
 # 🔗 OnChain Toolkit Overview
 
-OnChain Toolkit is a groundbreaking trading platform, essential for individuals navigating the decentralized finance (DeFi) ecosystem. By leveraging smart autonomous AI agents, along with real-time data and robust analytical tools, the platform empowers users to make well-informed decisions, track market trends, and actively engage in various liquidity pools and token exchanges across multiple networks.
+OnChain Toolkit is a groundbreaking trading platform, essential for individuals navigating the decentralized finance (DeFi) ecosystem. By leveraging smart autonomous AI agents supercharged with GPU technology, along with real-time data and robust analytical tools, the platform empowers users to make well-informed decisions, track market trends, and actively engage in various liquidity pools and token exchanges across multiple networks.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-26 at 18.24.48.png" alt=""><figcaption></figcaption></figure>
 
