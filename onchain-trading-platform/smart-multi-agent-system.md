@@ -42,4 +42,20 @@ This framework outlines a strategic design for a multi-agent trading system base
 
 ## <mark style="color:green;">Future Scopes</mark>
 
-Incorporating statistical and machine learning techniques to analyze risk factors across portfolios, for instance, by using variance-covariance matrices and Monte Carlo simulations through the Quant-lib Python library to estimate potential losses in varying market conditions. Additionally, deploying deep learning models to assess and forecast the effectiveness of different chart patterns and technical indicators. Designing algorithms to identify price differences across various exchanges and executing trades to leverage these discrepancies, all while complying with exchange regulations and addressing latency concerns.
+• **Machine Learning Integration:**
+
+Deploying deep learning models, accelerated by GPUs, to assess and forecast the effectiveness of different chart patterns and technical indicators. These models will enable the agents to adapt dynamically to evolving market conditions.
+
+• **Latency Optimization with GPUs and DPUs:**
+
+Leveraging Data Processing Units (DPUs) alongside GPUs to reduce latency during high-frequency trades. DPUs specialize in offloading data-intensive tasks like encryption, compression, and real-time data streaming, which are critical for ensuring swift and secure trade execution in multichain environments.
+
+• **Risk Simulation Models:**
+
+Incorporating statistical and machine learning techniques, such as variance-covariance matrices and Monte Carlo simulations through the Quant-Lib Python library, to analyze risk factors across portfolios. These simulations provide insights into potential losses under varying market conditions.
+
+• **Arbitrage Trading Strategies:**
+
+Designing algorithms to identify price differences across various exchanges and executing trades to leverage these discrepancies, all while complying with exchange regulations and addressing latency concerns through GPU and DPU acceleration.
+
+By combining the computational power of GPUs and the efficiency of DPUs, the multi-agent trading system becomes a highly responsive, intelligent, and scalable solution for modern trading challenges.
