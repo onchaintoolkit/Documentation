@@ -56,11 +56,7 @@
 
 **V2 Platform Launch**: Roll out an upgraded platform with advanced functionalities and enhanced performance.
 
-**Build Your Own AI Trading Agents**: Empower users with tools to design, customize, and deploy AI trading agents.
-
-**Social Trading Features**: Enable users to share, discuss, and follow trading strategies or AI setups.
-
-**Marketplace for AI Agents**: Create a marketplace where users can trade or monetize their custom AI agents.
+**Autonomous Trading Agent**: Fully AI-driven agent that executes trades autonomously, manages risks, and enables passive income through integrated copy-trading solutions.
 
 **Offline Functionality**: Add mobile app features for limited offline trading capabilities or alerts.
 
