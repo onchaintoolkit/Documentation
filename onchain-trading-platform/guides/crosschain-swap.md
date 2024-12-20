@@ -4,6 +4,8 @@ Crosschain Swaps in Onchain Toolkit, powered by LayerZero, enable secure and sea
 
 **Step 1: Connect Your Wallet**
 
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
 Open the Onchain Toolkit platform.
 
 Click the Connect Wallet button at the top right of the interface.
@@ -12,7 +14,11 @@ Select your preferred wallet (e.g., MetaMask, WalletConnect) and authorize the c
 
 Ensure that your wallet is configured for the blockchain network you want to swap from.
 
+
+
 **Step 2: Navigate to Crosschain Swaps**
+
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 On the left-hand sidebar, click on Crosschain Swaps to open the swaps interface.
 
@@ -20,13 +26,23 @@ You’ll see fields to select the source blockchain, destination blockchain, and
 
 **Step 3: Choose Your Networks and Asset**
 
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
 Source Network: Select the blockchain where your assets are currently located. (Example: Ethereum, Binance Smart Chain, or Polygon)
 
 Destination Network: Choose the blockchain where you want to send your assets.
 
 Asset Selection: Pick the token or cryptocurrency you wish to swap. Make sure the asset is supported on both the source and destination networks.
 
-**Step 5: Confirm and Approve the Swap**
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Step 5: Preview, Confirm and Approve the Swap**
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+Once you have click preview, you can choose from the selected provider.
 
 Click Approve to authorize the transaction in your connected wallet.
 
@@ -34,7 +50,13 @@ Once approved, click Swap to initiate the crosschain transfer.
 
 A confirmation window will appear with the transaction details. Review them carefully before confirming.
 
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+
+
 **Step 6: Wait for Confirmation**
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 The swap process will take a few minutes as LayerZero technology securely transfers your assets across networks.
 
