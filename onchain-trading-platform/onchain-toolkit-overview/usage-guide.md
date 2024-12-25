@@ -8,10 +8,11 @@
 
 **Conducting Security Scans**
 
-&#x20;    Enter the contract address you wish to scan in the Contract scanner tool.
+&#x20; •  Enter the contract address you wish to scan in the Contract scanner tool.
 
-* Review the detailed report, noting any potential issues or optimizations.
-* Use scanners to assess tokens and addresses, ensuring safety and transparency.
+&#x20; •   Review the detailed report, noting any potential issues or optimizations.
+
+&#x20; •  Use scanners to assess tokens and addresses, ensuring safety and transparency.
 
 ### Managing Allowances
 
