@@ -15,7 +15,7 @@ This document outlines the core features of the trading agent, its underlying te
    * Users can **stake funds** into the trading agent’s pool and automatically mirror its trades.
    * Earn proportional returns based on the agent's performance, ensuring fair and consistent rewards.
 3. **Social Media Sentiment Analysis:**
-   * Detects **emerging trends and narratives** from platforms like Twitter, Reddit, and Telegram.
+   * Detects **emerging trends and narratives** from platforms like Twitter and Telegram.
    * Integrates social sentiment signals with on-chain data for early identification of profitable opportunities.
 4. **Transparent and Decentralized:**
    * Powered by **secure smart contracts**, ensuring users retain custody of their funds.
@@ -43,13 +43,13 @@ The agent processes the collected data and applies its advanced algorithms to:
 
 **3. Automated Trading Execution**
 
-* Once a trading signal is confirmed, the agent executes trades directly on decentralized exchanges (DEXs) such as Uniswap or SushiSwap.
+* Once a trading signal is confirmed, the agent executes trades directly on decentralized exchanges (DEXs) like Uniswap.
 * Trades are executed in a **gas-optimized** manner to minimize costs and maximize profitability.
 
 **4. User Copy-Trading and Profit Sharing**
 
 * Users stake their funds into the trading agent’s pool, earning **proportional returns** based on the agent’s trading success.
-* A small performance fee is retained by the platform to cover operational costs, ensuring sustainability.
+* A small performance fee is retained by the platform to cover operational costs, ensuring sustainability. Additionally, a percentage of this fee will be allocated to buy back and burn our native token, supporting its value and scarcity.
 
 **5. Real-Time Performance Monitoring**
 
@@ -90,6 +90,10 @@ The agent employs a variety of strategies to ensure consistent performance acros
    * **NLP Models:** Advanced AI for analyzing unstructured social media data.
 4. **User Interface:**
    * Intuitive dashboard for staking, tracking performance, and withdrawing funds.
+
+### **Backtesting and Validation**
+
+Before the agent becomes available for user copy-trading, it undergoes extensive backtesting using historical market data. This ensures that the strategies deployed are robust, profitable, and capable of adapting to various market conditions.
 
 ### **Conclusion**
 
