@@ -11,9 +11,7 @@ Key functionalities include:
 * **User-Centric Agent:** Offers customized advice and real-time alerts, aligning recommendations with user trading patterns and market conditions.
 * **Hybrid Agent:** Combines inputs from risk, strategy, and user-centric agents to make and execute informed trading decisions based on portfolio risks, user behavior, and market sentiment, with support from human intelligence.
 
-
-
-**2. On-Chain Trading Agent**
+### 2. On-chain Trading Agent
 
 * **Social Sentiment Integration:** Detects emerging trends using AI-driven analysis of social media platforms like Twitter and Reddit.
 * **Data-Driven Strategies:** Combines on-chain data with sentiment insights to execute strategies like trend-following and volatility trading.
@@ -21,9 +19,7 @@ Key functionalities include:
 * **Risk Management:** Optimizes trades by managing slippage, gas costs, and liquidity risks.
 * **Performance Transparency:** Provides real-time monitoring of trades and returns via an intuitive dashboard.
 
-
-
-**3. AI Technical Contract Scanners**
+### 3. AI Technical Contract Scanners
 
 * **Revoluzion + Slither Application powered by AI:** Utilize advanced scanning tools to analyze smart contracts for potential vulnerabilities, optimizations, and adherence to best practices.
 * **GoPlus Integration:** Leverage GoPlus for token scanning, identifying potential risks and ensuring the integrity of tokens within pools.
@@ -61,7 +57,7 @@ Key functionalities include:
 * **High Volume Pools:** Monitor pools with the highest trading volumes for potential trading opportunities.
 * **Newly Created Pools:** Explore the latest pools created on the Ethereum network, providing insights into emerging trends.
 
-**11 . Trend Master**
+### 11. Trend Master
 
 Trend Master provides real-time monitoring and analysis of various crypto narratives using advanced analytics and data from sources like CoinGecko.
 
