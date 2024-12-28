@@ -18,7 +18,7 @@
 * [⚡ Autonomous Trading Agent](onchain-trading-platform/autonomous-trading-agent.md)
 * [📊 Trend Master](onchain-trading-platform/trend-master.md)
 * [🗺️ Project Roadmap](onchain-trading-platform/project-roadmap.md)
-* [🔒OnChainToolKit Token](onchain-trading-platform/onchaintoolkit-token/README.md)
+* [✨ OnChainToolKit Token](onchain-trading-platform/onchaintoolkit-token/README.md)
   * [Tokenomics](onchain-trading-platform/onchaintoolkit-token/tokenomics.md)
   * [Utility](onchain-trading-platform/onchaintoolkit-token/utility.md)
 * [🌐 Powered By](onchain-trading-platform/powered-by.md)
