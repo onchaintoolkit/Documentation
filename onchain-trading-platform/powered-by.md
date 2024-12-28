@@ -1,4 +1,4 @@
-# 🤝 Strategic Partners
+# 🌐 Powered By
 
 ## OnChain Toolkit Strategic Partners
 
