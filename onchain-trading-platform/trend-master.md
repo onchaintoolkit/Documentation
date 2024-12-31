@@ -8,8 +8,6 @@ In the dynamic and rapidly evolving cryptocurrency market, staying ahead of tren
 
 The cryptocurrency market comprises numerous narratives, such as DeFi, NFTs, Layer 1 solutions, and more. Tracking and understanding the performance of these narratives is challenging due to the sheer volume of data and the complexity of market dynamics. Traditional tools often fail to provide the necessary granularity and real-time insights required to capitalize on emerging trends. This lack of comprehensive narrative analysis hampers traders' ability to make timely and informed decisions.
 
-<figure><img src="../.gitbook/assets/Trend_Master_Flowchart.png" alt=""><figcaption></figcaption></figure>
-
 #### Objectives
 
 Trend Master aims to:
