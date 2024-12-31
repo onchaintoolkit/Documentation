@@ -2,6 +2,8 @@
 
 In the dynamic and rapidly evolving cryptocurrency market, staying ahead of trends is crucial for successful trading. **Trend Master**, integrated within Onchain Toolkit, provides a sophisticated solution for monitoring and analyzing the strength of various crypto narratives. By leveraging real-time data and advanced analytics, Trend Master empowers traders with actionable insights into thematic shifts, helping them make informed decisions and optimize their trading strategies.
 
+<figure><img src="../.gitbook/assets/Trend_Master_Flowchart.png" alt=""><figcaption></figcaption></figure>
+
 #### Problem Statement
 
 The cryptocurrency market comprises numerous narratives, such as DeFi, NFTs, Layer 1 solutions, and more. Tracking and understanding the performance of these narratives is challenging due to the sheer volume of data and the complexity of market dynamics. Traditional tools often fail to provide the necessary granularity and real-time insights required to capitalize on emerging trends. This lack of comprehensive narrative analysis hampers traders' ability to make timely and informed decisions.
