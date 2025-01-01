@@ -6,6 +6,8 @@ Our platform introduces a groundbreaking **On-Chain Trading Agent**, designed to
 
 This document outlines the core features of the trading agent, its underlying technology, and how users can benefit from its transparent and decentralized architecture.
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-01 at 14.04.31.png" alt=""><figcaption></figcaption></figure>
+
 **Key Features**
 
 1. **Autonomous Trading:**
