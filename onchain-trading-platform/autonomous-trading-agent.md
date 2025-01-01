@@ -6,7 +6,7 @@ The OnChain Toolkit Autonomous Trading Agent simplifies decentralized finance (D
 
 This document outlines the core features of the trading agent, its underlying technology, and how users can benefit from its transparent and decentralized architecture.
 
-<figure><img src="../.gitbook/assets/Trading_Agent_Flowchart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-01 at 21.19.19.png" alt=""><figcaption></figcaption></figure>
 
 **Key Features**
 
