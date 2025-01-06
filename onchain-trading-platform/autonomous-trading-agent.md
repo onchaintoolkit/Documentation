@@ -30,7 +30,11 @@ This document outlines the core features of the trading agent, its underlying te
    * Enhances trading strategies over time, adapting to successes and failures in prior trades.
 10. **Oracle Bridges**
 
-* Connects on-chain data with off-chain sources to fetch real-time market data (e.g., token prices,          trading volumes) for informed trading decisions.
+    * Connects on-chain data with off-chain sources to fetch real-time market data (e.g., token prices, trading volumes) for informed trading decisions.
+
+    ***
+
+
 
 ***
 
@@ -51,8 +55,7 @@ This document outlines the core features of the trading agent, its underlying te
    * Includes advanced visualization tools like chart.js or plotly for better user engagement.
 5. **Profit Sharing**
    * Users stake funds to earn rewards proportional to the agent’s success.
-     * A small performance fee supports operational costs and sustains the platform.
-     * A percentage of this fee is allocated for buybacks and burns of the native token, enhancing its value and scarcity.
+   * A percentage of this fee is allocated for buybacks and burns of the native token, enhancing its value and scarcity.
 
 ***
 
