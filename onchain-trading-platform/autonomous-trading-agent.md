@@ -33,10 +33,11 @@ This document outlines the core features of the trading agent, its underlying te
     * Connects on-chain data with off-chain sources to fetch real-time market data (e.g., token prices, trading volumes) for informed trading decisions.
 
     ***
+11. **GPU Acceleration**
+
+    * Utilizes GPUs to accelerate machine learning tasks, real-time analytics, and backtesting, enabling faster decision-making and improved computational efficiency
 
 
-
-***
 
 ### How It Works
 
@@ -55,7 +56,8 @@ This document outlines the core features of the trading agent, its underlying te
    * Includes advanced visualization tools like chart.js or plotly for better user engagement.
 5. **Profit Sharing**
    * Users stake funds to earn rewards proportional to the agent’s success.
-   * A percentage of this fee is allocated for buybacks and burns of the native token, enhancing its value and scarcity.
+     * A small performance fee supports operational costs and sustains the platform.
+     * A percentage of this fee is allocated for buybacks and burns of the native token, enhancing its value and scarcity.
 
 ***
 
