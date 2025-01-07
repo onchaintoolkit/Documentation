@@ -16,7 +16,6 @@ Key functionalities include:
 * **Social Sentiment Integration:** Detects emerging trends using AI-driven analysis of social media platforms like Twitter and Telegram.
 * **Data-Driven Strategies:** Combines on-chain data with sentiment insights to execute strategies like trend-following and volatility trading.
 * **Copy-Trading for Passive Income:** Users stake funds to mirror the agent’s trades, earning proportional returns while retaining full custody.
-* **Risk Management:** Optimizes trades by managing slippage, gas costs, and liquidity risks.
 * **Performance Transparency:** Provides real-time monitoring of trades and returns via an intuitive dashboard.
 
 ### 3. AI Technical Contract Scanners
