@@ -43,8 +43,8 @@ This document outlines the core features of the trading agent, its underlying te
 
 1. **Data Collection**
    * Aggregates real-time on-chain data (e.g., prices, liquidity) and social sentiment signals using oracle bridges and decentralized data pipelines.
-   * Incorporates public APIs like CoinGecko and CryptoCompare for token prices, market caps, and volume data.
-   * Leverages The Graph Protocol for querying real-time liquidity pool data and transaction history.
+   * Incorporates GeckoTerminal to provide direct, real-time token data, trading volumes, and liquidity metrics sourced from decentralized exchanges (DEXs).
+   * Leverages The Graph Protocol to enable detailed queries for real-time liquidity pool data, transaction histories, and other granular on-chain metrics.
    * Uses Chainlink Oracles for reliable, tamper-proof price feeds, integrated directly into smart contracts.
 2. **Signal Processing**
    * Combines data inputs to identify profitable trade opportunities dynamically.
